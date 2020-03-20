@@ -4,7 +4,11 @@ This is for advanced users so **please** fully read this [README.md](README.md) 
 
 ![Hemera Odyssey Full View](img/full_view_blender.jpg)
 
-## Print settings are critical please follow them exactly => [**Print Settings**](Print_Settings.md)
+### Print settings are critical please follow them exactly  
+=> [**Print Settings**](Print_Settings.md)
+
+### Build guide
+=> [**Build guides**](Build_Guide/00_First.md)
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
