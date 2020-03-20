@@ -1,4 +1,4 @@
-[Previous](06_Extruder_Assembly.md) | [Next](07_Printer_Assembly.md)  
+[Previous](06_Extruder_Assembly.md)  
 ---
 # Extruder
 ---
@@ -50,4 +50,4 @@
 * <br>  
 ![14](../img/Printer_Assembly/14.jpg)
 ---
-[Previous](06_Extruder_Assembly.md) | [Next](07_Printer_Assembly.md)  
+[Previous](06_Extruder_Assembly.md)
