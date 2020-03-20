@@ -8,7 +8,7 @@ This is for advanced users so **please** fully read this [README.md](README.md) 
 => [**Print Settings**](Print_Settings.md)
 
 ### Build guide
-=> [**Build guides**](Build_Guide/00_First.md)
+=> [**Build guide**](Build_Guide/00_First.md)
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
@@ -19,7 +19,8 @@ Documentation will change over time.
 
 ## What is this mod
 This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
-It will pass the self-test and XYZ calibration thanks to the geometry matching the stock setup but needs a minimum change to the e-steps that can be done via gcode.
+It will pass the self-test and XYZ calibration thanks to the geometry matching the stock setup but needs a minimum change to the e-steps that can be done via gcode.  
+This is a very maintainable and moddable mod. I encourage and look forward to seeing mods and remixes!
 
 ## No custom firmware (sort of)???!!!
 Aside from needing to change the e-steps, this will work with stock firmware but it's not ideal.
