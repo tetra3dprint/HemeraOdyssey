@@ -5,7 +5,7 @@
 ### Parts
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**Part_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left.stl)||
+|1|[**Part_Left_Motor.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Motor.stl)||
 |1|[**Part_Left_Front_Rod_Clamp.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Front_Rod_Clamp.stl)||
 |2|10mm|M3(Not needed yet)|
 |5|14mm|M3|
