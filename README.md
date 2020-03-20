@@ -39,14 +39,17 @@ The x carriage is slightly heavier than stock so this could manifest as more gho
 I used Blender to create the files for this mod so only the blender file and STL files will are available
 
 ## Huge thanks to
-[Grégoire Saunier #BearUpgrade on twitter](https://twitter.com/GregoireSaunier)  
-Grégoire has not only been inspiration but has also been kind enough to offer som guidance here and there, so I have huge respect and thanks to him.  
+ 
 [Vlastimil Hovan on twitter](https://twitter.com/Vlastimil_Hovan)  
-Vlastimil has bravely beta tested my mod by printing several variations and trying them out on his own machine.
-Not only that but he has created the first official mod that enables my mod to be used on the MK3S variant, so again I huge respect and thanks to him.
+Vlastimil has beta tested my mod, printed several variations and tried them out on his machines. Also has given invaluable and suggestions that made their way back into the design.
+Not only that but he has created the first official mod for my mod that enables the use on the MK3S variant, so again I huge respect and thanks to him.  
+   
+[Grégoire Saunier #BearUpgrade on twitter](https://twitter.com/GregoireSaunier)  
+Grégoire has not only been inspiration but has also been kind enough to offer som guidance here and there, so I have huge respect and thanks to him. 
+
 
 ## Lots of coffee and filament consumption
-In making this mod I've used several rolls of filament and drank lots of Grumpy mule coffee. If you like it and want to support me in some way (obiously no obligation) maybe consider bying me a coffee :)  
+In making this mod I've used several rolls of filament and drank lots of Grumpy mule coffee. If you like it and want to support me in some way (obiously no obligation) maybe consider buying me a coffee :)  
 https://www.buymeacoffee.com/tetra3dprint
 
 ## Sources
