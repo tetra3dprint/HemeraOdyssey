@@ -6,7 +6,7 @@
 # Parts Stock
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+|1|[**HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID.stl)|Printed Part|
 ||mm|M3|
 ---
 * <br>  
@@ -27,7 +27,7 @@
 # Parts Gates
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+|1|[**HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl)|Printed Part|
 ||mm|M3|
 * <br>  
 ![01](../img/Idlers/Gates/01.jpg)

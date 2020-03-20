@@ -6,7 +6,10 @@
 # Parts IR Sensor
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+|1|[**HemeraOdyssey-Filament_Sensor_IR_Housing.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_IR_Housing.stl)|Printed Part|
+|1|[**HemeraOdyssey-Filament_Sensor_IR_Cover.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_IR_Cover.stl)|Printed Part|
+|1|[**HemeraOdyssey-Filament_Sensor_IR_Trigger.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_IR_Trigger.stl)|Printed Part|
+|1|[**HemeraOdyssey-Filament_Sensor_IR_Spring.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_IR_Spring.stl)|Printed Part|
 ||mm|M3|
 ---
 * <br>  
@@ -33,7 +36,9 @@
 # Parts Laser Sensor
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+|1|[**HemeraOdyssey-Filament_Sensor_Laser_Housing.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_Laser_Housing.stl)|Printed Part|
+|1|[**HemeraOdyssey-Filament_Sensor_Laser_Lid.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_Laser_Lid.stl)|Printed Part|
+|1|[**HemeraOdyssey-Filament_Sensor_Laser_Wahser.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_Laser_Wahser.stl)|Printed Part|
 ||mm|M3|
 ---
 # <br>  

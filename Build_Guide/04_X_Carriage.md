@@ -6,7 +6,7 @@
 # Parts  
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+|1|[**HemeraOdyssey-X_Carriage.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage.stl)|Printed Part|
 ||mm|M3|
 ---
 * <br>  

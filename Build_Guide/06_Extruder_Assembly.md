@@ -6,7 +6,15 @@
 # Parts  
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+|1|[**HemeraOdyssey-Undercarriage_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Left.stl)|Printed Part|
+|1|[**HemeraOdyssey-Undercarriage_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Right.stl)|Printed Part|
+|1|[**HemeraOdyssey-Undercarriage_Back.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Back.stl)|Printed Part|
+|1|[**HemeraOdyssey-X_Carriage.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage.stl)|Printed Part|
+|1|[**HemeraOdyssey-X_Carriage_Washer.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage_Washer.stl)|Printed Part|
+|1|[**HemeraOdyssey-X_Carriage_Belt_Tensioner_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage_Belt_Tensioner_Left.stl)|Printed Part|
+|1|[**HemeraOdyssey-X_Carriage_Belt_Tensioner_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage_Belt_Tensioner_Right.stl)|Printed Part|
+|1|[**HemeraOdyssey-Z_Top_Left_7mm.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Left_7mm.stl)|Printed Part|
+|1|[**HemeraOdyssey-Z_Top_Right_7mm.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Right_7mm.stl)|Printed Part|
 ||mm|M3|
 ---
 * <br>  

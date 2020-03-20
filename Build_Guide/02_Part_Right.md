@@ -6,7 +6,8 @@
 # Parts  
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+|1|[**Part_Right_Idler.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Right_Idler.stl)|Printed Part|
+|1|[**Part_Right_Front_Rod_Clamp.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Right_Front_Rod_Clamp.stl)|Printed Part|
 ||mm|M3|
 ---
 * <br>  
