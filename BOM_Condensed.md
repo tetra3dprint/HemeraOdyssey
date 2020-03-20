@@ -1,6 +1,5 @@
 # Hemera Odyssey BOM Total  
 ### #hemeraodyssey
-https://www.buymeacoffee.com/tetra3dprint
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |4|6mm|M3|
