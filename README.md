@@ -4,6 +4,8 @@ This is for advanced users so **please** fully read this [README.md](README.md) 
 
 ![Hemera Odyssey Full View](img/full_view_blender.jpg)
 
+## Print settings are critical please follow exactly [**Print Settings**](Print_Settings.md)
+
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
 What this means is field testing of parts and printing parts is **limited**.
