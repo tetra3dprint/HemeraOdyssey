@@ -2,8 +2,7 @@
 ---
 # Part Left
 ---
-### Parts
----
+# Parts  
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**Part_Left_Motor.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Motor.stl)|Printed Part|
