@@ -1,6 +1,7 @@
 [Previous](00_First.md) | [Next](02_Part_Right.md)
 
 # Part Left
+(**Part_Left_Front_Rod_Clamp.stl**)[https://github.com/tetra3dprint/HemeraOdyssey/blob/master/HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Front_Rod_Clamp.stl]
 
 ### Parts
 |Quantity|Size|Type|
