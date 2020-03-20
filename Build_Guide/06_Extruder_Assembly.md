@@ -50,3 +50,4 @@
 ![43](../img/Extruder_Assembly/43.jpg)
 ![44](../img/Extruder_Assembly/44.jpg)
 ![45](../img/Extruder_Assembly/45.jpg)
+![46](../img/Extruder_Assembly/46.jpg)
