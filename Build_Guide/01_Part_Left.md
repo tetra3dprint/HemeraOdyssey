@@ -26,22 +26,21 @@
 * Insert both LM8UU bearings in x configuration for both<br>  
 ![03](../img/Part_Left/03.jpg)
 ![04](../img/Part_Left/04.jpg)
-![05](../img/Part_Left/05.jpg)
 ---
 * 
 * Insert 2 square nuts along with 2 14mm bolts to secure, don't over tighten<br>  
-![06](../img/Part_Left/06.jpg)
+![05](../img/Part_Left/05.jpg)
 ---
 * Loosely fit the front clamp part with 2 14mm bolt and loosely insert 1 14mm bolt in the rear clamp<br>  
-![07](../img/Part_Left/07.jpg)
+![06](../img/Part_Left/06.jpg)
 ---
 * Loosely fit the pOM Trapezoidal Nut using 2 18mm bolts<br>  
-![08](../img/Part_Left/08.jpg)
+![07](../img/Part_Left/07.jpg)
 ---
 * Puncture the 3 motor holes using the M3 hex driver<br>  
-![09](../img/Part_Left/09.jpg)
+![08](../img/Part_Left/08.jpg)
 ---
 * Secure the motor with 3 18mm bolts<br>  
-![10](../img/Part_Left/10.jpg)
+![09](../img/Part_Left/09.jpg)
 ---
 [Previous](00_First.md) | [Next](02_Part_Right.md)
