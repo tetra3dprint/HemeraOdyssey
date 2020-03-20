@@ -34,7 +34,7 @@ Please respect the GNU General Public License v3.0 that this mod is released und
 Not yet but it is intended but for this to work it will require custom firmware that will come at a later date.
 
 ## Caveats
-I showed a preview of my mod a few weeks back and there was a voice of concern in regard to the center of mass moving forward on the X carriage.  
+I showed a preview of my mod and there was a voice of concern in regard to the center of mass moving forward on the X carriage.  
 This was mainly because the X motor is now positioned forward compared to stock.  
 The concern is that this now unfavorably loads the z axis bearing and in turn reduces the life of the bearings and smooth rods.  
 I have not been able to find data that supports or refutes this concern, however it does appear that the extra loading is within spec.  
@@ -48,11 +48,11 @@ I used Blender to create the files for this mod so only the blender file and STL
 ## Huge thanks to
  
 [Vlastimil Hovan on twitter](https://twitter.com/Vlastimil_Hovan)  
-Vlastimil has beta tested my mod, printed several variations and tried them out on his machines. Also has given invaluable and suggestions that made their way back into the design.
-Not only that but he has created the first official mod for my mod that enables the use on the MK3S variant, so again I huge respect and thanks to him.  
+Vlastimil has beta tested my mod, printed several variations and tried them out on his machines. Also has given invaluable and suggestions that made their way back into the design.  
+Not only that but he has created the first official mod (Z Tops) for my mod that enables the use on the MK3S variant, so huge respect and thanks to him.  
    
 [Grégoire Saunier #BearUpgrade on twitter](https://twitter.com/GregoireSaunier)  
-Grégoire has not only been inspiration but has also been kind enough to offer some guidance here and there that kept me on the strain and narrow :) so I have huge respect and thanks to him. 
+Grégoire has not only been inspiration but has also been kind enough to offer some guidance here and there that kept me on the strain and narrow :) so huge respect and thanks to him. 
 
 
 ## Lots of coffee and filament consumption
