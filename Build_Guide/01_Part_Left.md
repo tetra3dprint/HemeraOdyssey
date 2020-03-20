@@ -12,7 +12,7 @@
 |5|14mm|M3|
 |5|18mm|M3|
 |5|Hex Nut|M3|
-|1|Square Nut|M3|
+|2|Square Nut|M3|
 |1|POM Trapezoidal Nut|T8|
 |2|LM8UU|Bearing|  
 ---
@@ -34,7 +34,7 @@
 * Loosely fit the front clamp part with 2 14mm bolt and loosely insert 1 14mm bolt in the rear clamp<br>  
 ![06](../img/Part_Left/06.jpg)
 ---
-* Loosely fit the pOM Trapezoidal Nut using 2 18mm bolts<br>  
+* Loosely fit the POM Trapezoidal Nut using 2 18mm bolts<br>  
 ![07](../img/Part_Left/07.jpg)
 ---
 * Puncture the 3 motor holes using the M3 hex driver due to bridging support<br>  
