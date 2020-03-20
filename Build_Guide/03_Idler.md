@@ -1,8 +1,6 @@
 [Previous](02_Part_Right.md) | [Next](04_X_Carriage.md)
-
-# Idler
 ---
-# Part Right
+# Idler
 ---
 # Parts  
 |Quantity|Size|Type|
@@ -25,6 +23,11 @@
 * <br>  
 ![05](../img/Idlers/Stock/05.jpg)
 ---
+# Parts  
+|Quantity|Size|Type|
+|---:|:---:|:---:|
+|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+||mm|M3|
 * <br>  
 ![01](../img/Idlers/Gates/01.jpg)
 ---

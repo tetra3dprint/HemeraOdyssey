@@ -2,13 +2,13 @@
 ---
 # Filament Sensor
 ---
-# Parts  
+# Parts IR Sensor
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
 ||mm|M3|
 ---
-# IR Sensor<br>  
+* <br>  
 ![01](../img/Filament_Sensors/IR/01.jpg)
 ---
 * <br>  
@@ -29,7 +29,13 @@
 * <br>  
 ![07](../img/Filament_Sensors/IR/07.jpg)
 ---
-# Laser Sensor<br>  
+# Parts Laser Sensor
+|Quantity|Size|Type|
+|---:|:---:|:---:|
+|1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
+||mm|M3|
+---
+# <br>  
 ![01](../img/Filament_Sensors/Laser/01.jpg)
 ---
 * <br>  

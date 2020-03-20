@@ -35,7 +35,4 @@
 * <br>  
 ![09](../img/X_Carriage/09.jpg)
 ---
-* <br>  
-![10](../img/X_Carriage/10.jpg)
----
 [Previous](01_Part_Left.md) | [Next](03_Idler.md)
