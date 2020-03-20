@@ -1,8 +1,9 @@
 [Previous](00_First.md) | [Next](02_Part_Right.md)
-
+---
 # Part Left
-
+---
 ### Parts
+---
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**Part_Left_Motor.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Motor.stl)|Printed Part|
