@@ -1,4 +1,4 @@
-[Previous](05_Filament_Sensor.md) | [Next](07_Undercarriage_Right.md)  
+[Previous](06_Extruder_Assembly.md) | [Next](07_Printer_Assembly.md)  
 
 # Extruder
 

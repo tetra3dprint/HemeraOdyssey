@@ -1,4 +1,4 @@
-[Previous](04_X_Carriage.md) | [Next](06_Undercarriage_Left.md)
+[Previous](04_X_Carriage.md) | [Next](06_Extruder_Assembly.md)
 
 # Filament Sensor
 
