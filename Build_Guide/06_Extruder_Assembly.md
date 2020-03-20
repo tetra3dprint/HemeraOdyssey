@@ -3,7 +3,7 @@
 # Extruder
 
 ![01](../img/Extruder_Assembly/01.jpg)
-![02](../img/Extruder_Assembly/02.jpg)
+![02a](../img/Extruder_Assembly/02a.jpg)
 ![02b](../img/Extruder_Assembly/02b.jpg)
 ![02c](../img/Extruder_Assembly/02c.jpg)
 ![03](../img/Extruder_Assembly/03.jpg)
