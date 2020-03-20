@@ -1,6 +1,6 @@
 [Previous](00_First.md) | [Next](02_Part_Right.md)
 
-#Part Left
+# Part Left
 
 ### Parts
 |Quantity|Size|Type|
