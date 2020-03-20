@@ -1,4 +1,4 @@
-[Previous](01_Part_Left.md) | [Next](03_Idler.md)
+[Previous](03_Ider.md) | [Next](05_Filament_Sensor.md)
 ---
 # X Carriage
 ---
@@ -35,4 +35,4 @@
 * <br>  
 ![09](../img/X_Carriage/09.jpg)
 ---
-[Previous](01_Part_Left.md) | [Next](03_Idler.md)
+[Previous](03_Ider.md) | [Next](05_Filament_Sensor.md)

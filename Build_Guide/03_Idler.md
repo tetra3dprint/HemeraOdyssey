@@ -2,7 +2,7 @@
 ---
 # Idler
 ---
-# Parts  
+# Parts Stock
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
@@ -23,7 +23,7 @@
 * <br>  
 ![05](../img/Idlers/Stock/05.jpg)
 ---
-# Parts  
+# Parts Gates
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
