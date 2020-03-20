@@ -7,6 +7,8 @@
 |---:|:---:|:---:|
 |1|[**.stl**](../HemeraOdyssey_STLs_BETA/.stl)|Printed Part|
 ||mm|M3|
+---
+* <br>  
 ![01](../img/Extruder_Assembly/01.jpg)
 ---
 * <br>  

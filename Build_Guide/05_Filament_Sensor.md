@@ -53,4 +53,4 @@
 * <br>  
 ![06](../img/Filament_Sensors/Laser/06.jpg)
 ---
-[Previous](01_Part_Left.md) | [Next](03_Idler.md)
+[Previous](04_X_Carriage.md) | [Next](06_Extruder_Assembly.md)
