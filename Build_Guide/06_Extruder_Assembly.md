@@ -34,6 +34,7 @@
 ![28](../img/Extruder_Assembly/28.jpg)
 ![29](../img/Extruder_Assembly/29.jpg)
 ![30](../img/Extruder_Assembly/30.jpg)
+![30a](../img/Extruder_Assembly/30a.jpg)
 ![31](../img/Extruder_Assembly/31.jpg)
 ![32](../img/Extruder_Assembly/32.jpg)
 ![33](../img/Extruder_Assembly/33.jpg)
