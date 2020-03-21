@@ -10,7 +10,7 @@
 |1|[**HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Top.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Top.stl)|Printed Part|
 |1|[**HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Bottom.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Bottom.stl)|Printed Part|
 |2|14mm|M3 Bolt|
-|1|M3|Nylon Lock Nut|
+|1|M3|Hex Nylon Lock Nut|
 |1|Smooth T20|Prusa Idler|
 ---
 ![01](../img/Idlers/Stock/01.jpg)

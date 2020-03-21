@@ -35,7 +35,7 @@ On the MK3, the e-current will need to be increased slightly because the motor i
 Please respect the GNU General Public License v3.0 that this mod is released under. This is the same license that Prusa use.
 
 ## MMU2 Support?
-Not yet but it is intended but for this to work it will require custom firmware that will come at a later date.
+Not yet supported, however it is intended, but will require custom modified firmware which will come at a later date.
 
 ## Caveats
 I showed a preview of my mod and there was a voice of concern in regard to the center of mass moving forward on the X carriage.  

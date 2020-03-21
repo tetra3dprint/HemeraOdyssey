@@ -9,9 +9,9 @@
 |9|18mm|M3 Bolt|
 |2|25mm|M3 Bolt|
 |1|40mm|M3 Bolt|
-|10|Hex Nut|M3 Bolt|
-|14|Square Nut|M3 Bolt|
-|6|Hex Nylon Nut|M3 Bolt|
+|10|Hex Nut|M3|
+|14|Square Nut|M3|
+|6|Hex Nylon Lock Nut|M3|
 |2|Washer|M3 Bolt|
 |7|small|zip tie|
 |1|43mm|PTFE Tube|
@@ -20,7 +20,7 @@
 ## MK2 Only
 |Quantity|Size|Type|
 |---:|:---:|:---|
-|2|M2|12mm (End stop switch)|
+|2|12mm|M2(End stop switch)|
  
 ## Optional
 |Quantity|Size|Type|
