@@ -12,6 +12,7 @@
 |3|M3|Square Nut|
 |3|LM8UU|Bearing| 
 ---
+* Puncture the clamp holes and belt tensioner hole using the M3 hex driver due to bridging support
 * Nylon Lock Nut orientation<br>  
 ![01](../img/X_Carriage/01.jpg)
 ---
