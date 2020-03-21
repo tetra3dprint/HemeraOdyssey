@@ -15,7 +15,7 @@ This is a very maintainable and moddable mod. I encourage and look forward to se
 |BOM|[**BOM**](BOM_Condensed.md)|
 |Follow print settings exactly|[**Print Settings**](Print_Settings.md)|
 |Build guide|[**Build guide**](Build_Guide/00_First.md)|
-|Support this mod|[**Buy me a coffee :)**](https://www.buymeacoffee.com/tetra3dprint)|
+|Want to support this mod?|[**Buy me a coffee :)**](#lots-of-coffee-and-filament-consumption)|
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
