@@ -1,4 +1,4 @@
-[Previous](03_Ider.md) | [Next](05_Filament_Sensor.md)
+[Previous](03_Idler.md) | [Next](05_Filament_Sensor.md)
 ### #hemeraodyssey
 ---
 # X Carriage
@@ -16,7 +16,7 @@
 * Nylon Lock Nut orientation<br>  
 ![01](../img/X_Carriage/01.jpg)
 ---
-* Push down then back into the hole. Using a bolt can help engage the lock nut into place<br>  
+* Push down then back into the hole. Using a bolt in the tensioner holes can help engage the lock nut into place<br>  
 ![02](../img/X_Carriage/02.jpg)
 ---
 * Do the same for the other side<br>   
@@ -39,4 +39,4 @@
 * Insert 1 14mm bolts to secure, don't over tighten<br>   
 ![09](../img/X_Carriage/09.jpg)
 ---
-[Previous](03_Ider.md) | [Next](05_Filament_Sensor.md)
+[Previous](03_Idler.md) | [Next](05_Filament_Sensor.md)
