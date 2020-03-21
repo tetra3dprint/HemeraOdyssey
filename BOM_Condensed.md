@@ -23,7 +23,7 @@
 ## Optional
 |Quantity|Size|Type|
 |---:|:---:|:---|
-|1|4.95mm OD|14mm-15.8mm Dowel for Gates Idler|
+|1|14mm-15.8mm|4.95mm OD Dowel for Gates Idler|
 |1|M5|Threaded Brass Insert 
  
  ## Prerequisite

@@ -35,7 +35,7 @@
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl)|Printed Part|
-|1|4.95mm OD|14mm-15.8mm Dowel for Gates Idler|
+|1|14mm-15.8mm|4.95mm OD Dowel for Gates Idler|
 |2|14mm|M3|
 |1|Nylon Lock Nut|M3|
 |1|Toothe T20|Gates|
