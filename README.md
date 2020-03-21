@@ -12,10 +12,10 @@ This is for advanced users so **please** fully read this [**README.md**](README.
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
+Documentation is not complete and will be updated daily until this message is gone.  
 What this means is field testing of parts and printing parts is **limited**.
 Some parts mite cause problems when printing especially with materials I haven't tested.
 I will attempt to deal with any highlighted issue in a timely fasion, that said, changes will be kept to a minimum if possible.
-Documentation will change over time.
 
 ## What is this mod
 This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
