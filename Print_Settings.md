@@ -1,10 +1,11 @@
 # Hemera Odyssey Print Settings
 ### #hemeraodyssey
 
-* Use PETG for all part  
+* Use PETG for all part
+* Part are already correctly orientated, print all parts as orientated
 * Use exactly 4 outlines @ (slicer default) 0.45mm width
 * Use 0.2mm Layer height
-* Use atleast 20% rectangular infill
+* Use at least 20% rectangular infill
 * Solo print [**HemeraOdyssey-Part_Left_Motor.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Motor.stl)
 * Solo print [**HemeraOdyssey-Part_Right_Idler.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Right_Idler.stl)
 * Solo print [**HemeraOdyssey-X_Carriage.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage.stl)
