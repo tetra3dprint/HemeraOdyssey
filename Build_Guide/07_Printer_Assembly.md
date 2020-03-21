@@ -15,10 +15,10 @@
 * <br>  
 ![02](../img/Printer_Assembly/02.jpg)
 ---
-* Use 4 12mm bolts to secure the Z Tops<br>  
+* <br> 
 ![03](../img/Printer_Assembly/03.jpg)
 ---
-* <br>  
+* Use 4 12mm bolts to secure the Z Tops<br>   
 ![04](../img/Printer_Assembly/04.jpg)
 ---
 * <br>  
