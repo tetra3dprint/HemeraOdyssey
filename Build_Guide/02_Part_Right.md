@@ -15,6 +15,7 @@
 |1|T8|POM Trapezoidal Nut|
 |2|LM8UU|Bearing|  
 ---
+* Snap off brim support
 * Puncture the back rod clamp hole using the M3 hex driver due to bridging support <br>  
 ![01](../img/Part_Right/01.jpg)
 ---
