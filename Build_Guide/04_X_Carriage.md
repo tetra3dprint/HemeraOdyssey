@@ -7,33 +7,35 @@
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**HemeraOdyssey-X_Carriage.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage.stl)|Printed Part|
-||mm|M3|
+|2|Nylon Lock Nut|M3|
+|2|14mm|M3|
+|3|Square Nut|M3|
+|3|LM8UU|Bearing| 
 ---
-* <br>  
+* Nylon Lock Nut orientation<br>  
 ![01](../img/X_Carriage/01.jpg)
 ---
-* <br>  
+* Push down then back into the hole. Using a bolt can help engage the lock nut into place<br>  
 ![02](../img/X_Carriage/02.jpg)
 ---
-* <br>  
+* Do the same for the other side<br>   
 ![03](../img/X_Carriage/03.jpg)
 ---
-* <br>  
-![04](../img/X_Carriage/04.jpg)
----
-* <br>  
+* Insert both front LM8UU bearings in X configuration for both, so two rows of bearing sit on top when mounted<br>  
+![04](../img/X_Carriage/04.jpg) 
 ![05](../img/X_Carriage/05.jpg)
 ---
-* <br>  
+* Insert rear LM8UU bearings in X configuratio, so two rows of bearing sit on top when mounted<br>  
 ![06](../img/X_Carriage/06.jpg)
 ---
-* <br>  
+* Insert 2 square nuts  
+* Insert 2 14mm bolts to secure, don't over tighten<br>  
 ![07](../img/X_Carriage/07.jpg)
 ---
-* <br>  
+* Insert 1 square nuts<br>  
 ![08](../img/X_Carriage/08.jpg)
 ---
-* <br>  
+* Insert 1 14mm bolts to secure, don't over tighten<br>   
 ![09](../img/X_Carriage/09.jpg)
 ---
 [Previous](03_Ider.md) | [Next](05_Filament_Sensor.md)

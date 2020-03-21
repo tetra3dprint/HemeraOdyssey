@@ -46,7 +46,7 @@
 * Puncture the adjuster hole due to bridging support<br>  
 ![02](../img/Idlers/Gates/02.jpg)
 ---
-* Insert the Nylon Lock Nut and secure using 1 14mm bolt, then unscrew until bolt end is flush.<br>  
+* Insert the Nylon Lock Nut and secure using 1 14mm bolt, then unscrew until bolt end is flush. (Not like the picture, will update it soon)<br>  
 ![03](../img/Idlers/Gates/03.jpg)
 ---
 [Previous](02_Part_Right.md) | [Next](04_X_Carriage.md)
