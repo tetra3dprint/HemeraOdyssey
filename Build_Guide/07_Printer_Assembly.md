@@ -36,14 +36,15 @@
 * <br>  
 ![09](../img/Printer_Assembly/09.jpg)
 ---
-* Fully tighten using 25mm bolt<br>  
+* Use 1 25mm bolt to secure the belt clamp
+* Fully tighten the bolt<br>  
 ![10](../img/Printer_Assembly/10.jpg)
 ---
 * <br>  
 ![11](../img/Printer_Assembly/11.jpg)
 ---
-* Use 1 25mm bolt to secure
-* There is only 4mm travel, so ensure the belt is taut and not protruding the x carriage before tightening <br>  
+* Use 1 25mm bolt to secure the belt clamp, adjust belt position as needed before tightening the bolt
+* There is only 4mm travel, so ensure the belt is taut and not protruding the x carriage before tightening<br>  
 ![12](../img/Printer_Assembly/12.jpg)
 ---
 * <br>  
