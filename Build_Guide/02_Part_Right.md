@@ -10,9 +10,9 @@
 |1|[**Part_Right_Front_Rod_Clamp.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Right_Front_Rod_Clamp.stl)|Printed Part|
 |5|14mm|M3|
 |2|18mm|M3|
-|5|Hex Nut|M3|
-|2|Square Nut|M3|
-|1|POM Trapezoidal Nut|T8|
+|5|M3|Hex Nut|
+|2|M3|Square Nut|
+|1|T8|POM Trapezoidal Nut|
 |2|LM8UU|Bearing|  
 ---
 * Puncture the back rod clamp hole using the M3 hex driver due to bridging support <br>  

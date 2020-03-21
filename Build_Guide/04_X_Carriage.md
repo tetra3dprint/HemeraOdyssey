@@ -7,9 +7,9 @@
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**HemeraOdyssey-X_Carriage.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage.stl)|Printed Part|
-|2|Nylon Lock Nut|M3|
+|2|M3|Nylon Lock Nut|
 |2|14mm|M3|
-|3|Square Nut|M3|
+|3|M3|Square Nut|
 |3|LM8UU|Bearing| 
 ---
 * Nylon Lock Nut orientation<br>  

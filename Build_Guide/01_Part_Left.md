@@ -11,8 +11,8 @@
 |2|10mm|M3(Not needed yet)|
 |5|14mm|M3|
 |5|18mm|M3|
-|5|Hex Nut|M3|
-|2|Square Nut|M3|
+|5|M3|Hex Nut|
+|2|M3|Square Nut|
 |1|POM Trapezoidal Nut|T8|
 |2|LM8UU|Bearing|  
 ---
