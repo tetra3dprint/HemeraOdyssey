@@ -21,7 +21,7 @@
 * Insert all 5 hex nuts using a 14mm bolt from the rear<br>  
 ![02](../img/Part_Right/02.jpg)
 ---
-* Insert both LM8UU bearings in x configuration (looking down from front & above) for both<br>  
+* Insert both LM8UU bearings in X configuration (looking down from front & above) for both<br>  
 ![03](../img/Part_Right/03.jpg)
 ![04](../img/Part_Right/04.jpg)
 ---

@@ -7,28 +7,36 @@
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID.stl)|Printed Part|
-||mm|M3|
+|1|[**HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Top.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Top.stl)|Printed Part|
+|1|[**HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Bottom.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Bottom.stl)|Printed Part|
+|2|14mm|M3|
+|1|Nylon Lock Nut|M3|
 ---
-* <br>  
 ![01](../img/Idlers/Stock/01.jpg)
 ---
-* <br>  
+* Place the Spacer_Bottom in the large hole<br>  
 ![02](../img/Idlers/Stock/02.jpg)
 ---
-* <br>  
+* Place the Spacer_Top in the small hole<br> 
 ![03](../img/Idlers/Stock/03.jpg)
 ---
-* <br>  
+* Insert the assembled idler into the idler housing
+* Secure the idler with 1 14mm bolt encuring not to overtighten. This is going into plastic so take it slow<br>  
 ![04](../img/Idlers/Stock/04.jpg)
 ---
-* <br>  
+* Puncture the adjuster hole<br>  
 ![05](../img/Idlers/Stock/05.jpg)
+---
+* Insert the Nylon Lock Nut and secure using 1 14mm bolt, then unscrew until bolt end is flush.<br>  
+![06](../img/Idlers/Stock/06.jpg)
 ---
 # Parts Gates
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl)|Printed Part|
-||mm|M3|
+|1x|4.95mm OD|14mm-15.8mm Dowel for Gates Idler|
+|2|14mm|M3|
+|1|Nylon Lock Nut|M3|
 * <br>  
 ![01](../img/Idlers/Gates/01.jpg)
 ---
