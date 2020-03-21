@@ -4,7 +4,7 @@
 
 * Use PETG for all part
 * Part are already correctly orientated, do not change orientated
-* Use exactly 4 outlines @ (slicer default) 0.45mm width
+* Use exactly 4 perimeters @ (slicer default) 0.45mm width
 * Use 0.2mm layer height
 * Use at least 20% rectangular infill
 * Supports and brims are **not** required
