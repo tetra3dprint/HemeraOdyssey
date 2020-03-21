@@ -9,6 +9,7 @@ This is for advanced users so **please** fully read this [**README.md**](README.
 |BOM|[**BOM**](BOM_Condensed.md)|
 |Follow print settings exactly|[**Print Settings**](Print_Settings.md)|
 |Build guide|[**Build guide**](Build_Guide/00_First.md)|
+|Support this mod|[Buy me a coffee :)](https://www.buymeacoffee.com/tetra3dprint)|
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
