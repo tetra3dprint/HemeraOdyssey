@@ -19,7 +19,7 @@ This is a very maintainable and moddable mod. I encourage and look forward to se
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
 Documentation is not complete and will be updated daily until this message is gone.  
-There are probably spelling and grammar mistakes and possibly incorrect links and numbers.
+There are probably spelling and grammar mistakes and possibly incorrect links and numbers.  
 Parts mite change over the next few weeks.  
 Field testing of parts and printing parts is **limited**.
 Some parts mite cause problems when printing especially with materials I haven't tested.
