@@ -3,7 +3,7 @@
 ### #hemeraodyssey
 
 * Use PETG for all part
-* Part are already correctly orientated, do not change orientated
+* Part are already correctly orientated to take best advantage of stock part cooling, do not change the orientation
 * Use exactly 4 perimeters @ (slicer default) 0.45mm width
 * Use 0.2mm layer height
 * Use at least 20% rectangular infill
