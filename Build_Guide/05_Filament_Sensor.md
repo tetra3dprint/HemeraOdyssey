@@ -30,7 +30,7 @@
 * <br>  
 ![06](../img/Filament_Sensors/IR/06.jpg)
 ---
-* <br>  
+* Gently bend the end of the spring<br>  
 ![07](../img/Filament_Sensors/IR/07.jpg)
 ---
 # Parts Laser Sensor

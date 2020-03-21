@@ -80,9 +80,6 @@
 ![20](../img/Extruder_Assembly/20.jpg)
 ---
 * <br>  
-![21](../img/Extruder_Assembly/21.jpg)
----
-* <br>  
 ![22](../img/Extruder_Assembly/22.jpg)
 ---
 * <br>  
