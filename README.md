@@ -1,6 +1,7 @@
 ## HemeraOdyssey **BETA** (v1.0)
 Universal E3D Hemera mod for the Prusa i3 MK2 MK2.5 MK2.5S MK3 MK3S + Other variants  
-This is for advanced users so **please** fully read this [**README.md**](README.md) to avoid disappointment, frustration and missguided expectations!
+This is for advanced users so **please** fully read this [**README.md**](README.md) to avoid disappointment, frustration and missguided expectations!  
+I make no claims about this mod, it simply satisfies the requirement of enabling the hemera to be used on stock firmware.
 
 ## What is this mod
 This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
@@ -46,7 +47,8 @@ So what does this mean? It mite, or mite not reduce the life of your z axis bear
 The x carriage is slightly heavier than stock so this could manifest as more ghosting from x movements. Print settings can be adjusted to counter this.
 
 ## Source Files
-I used Blender to create the files for this mod so only the blender file and STL files will are available
+I used Blender to create the files for this mod so only the blender file and STL files will are available.  
+I will make the blander file available over the next few days. (It need's a lot of housekeeping)
 
 ## Huge thanks to
  
