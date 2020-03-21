@@ -53,7 +53,7 @@ I will make the blander file available over the next few days. (It need's a lot 
 ## Huge thanks to
  
 [Vlastimil Hovan on twitter](https://twitter.com/Vlastimil_Hovan)  
-Vlastimil has beta tested my mod, printed several variations and tried them out on his machines. Also has given invaluable and suggestions that made their way back into the design.  
+Vlastimil has kindly beta tested my mod, printed several variations and tried them out on his machines. He has also has given invaluable suggestions and feedback that have made their way back into the design.  
 Not only that but he has created the first official mod (Z Tops) for my mod that enables the use on the MK3S variant, so huge respect and thanks to him.  
    
 [Grégoire Saunier #BearUpgrade on twitter](https://twitter.com/GregoireSaunier)  
