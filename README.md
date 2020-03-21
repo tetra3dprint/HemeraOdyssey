@@ -14,6 +14,8 @@ This is for advanced users so **please** fully read this [**README.md**](README.
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
 Documentation is not complete and will be updated daily until this message is gone.  
+There are probably spelling and grammar mistakes and possibly incorrect links and numbers.
+Part mite change mite change over the next few weeks.  
 What this means is field testing of parts and printing parts is **limited**.
 Some parts mite cause problems when printing especially with materials I haven't tested.
 I will attempt to deal with any highlighted issue in a timely fasion, that said, changes will be kept to a minimum if possible.
