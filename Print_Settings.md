@@ -7,6 +7,7 @@
 * Use exactly 4 outlines @ (slicer default) 0.45mm width
 * Use 0.2mm layer height
 * Use at least 20% rectangular infill
+* Supports and brims are **not** required
 
 ## Some parts need to be printed by them selfs: -
 * Solo print [**HemeraOdyssey-Part_Left_Motor.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Motor.stl)
