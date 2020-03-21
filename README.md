@@ -46,11 +46,11 @@ So what does this mean? It might, or might not reduce the life of your z axis be
 
 The x carriage is slightly heavier than stock so this could manifest as more ghosting from x movements. Print settings can be adjusted to counter this.
 
-## Source Files
-I used Blender to create the files for this mod so only the blender file and STL files will are available.  
-I will make the blander file available over the next few days. (It need's a lot of housekeeping)
+## Lots of coffee and filament consumption
+[**Buy me a coffee :)**](https://www.buymeacoffee.com/tetra3dprint)  
+In making this mod I've used several rolls of filament and drank lots of Grumpy Mule coffee. If you like it and want to support me in some way (obiously no obligation) maybe consider buying me a coffee :)  
 
-## Huge thanks to
+## Huge thanks to  
  
 [Vlastimil Hovan on twitter](https://twitter.com/Vlastimil_Hovan)  
 Vlastimil has kindly beta tested my mod, printed several variations and tried them out on his machines. He has also has given invaluable suggestions and feedback that have made their way back into the design.  
@@ -59,10 +59,9 @@ Not only that but he has created the first official mod (Z Tops) for my mod that
 [Grégoire Saunier #BearUpgrade on twitter](https://twitter.com/GregoireSaunier)  
 Grégoire has not only been inspiration but has also been kind enough to offer some guidance here and there that kept me on the straight and narrow :) so huge respect and thanks to him. 
 
-
-## Lots of coffee and filament consumption
-In making this mod I've used several rolls of filament and drank lots of Grumpy mule coffee. If you like it and want to support me in some way (obiously no obligation) maybe consider buying me a coffee :)  
-https://www.buymeacoffee.com/tetra3dprint
+## Blender Source Files
+I used Blender to create the files for this mod so only the blender file and STL files will are available.  
+I will make the blender file available over the next few days. (It need's a lot of housekeeping)
 
 ## Sources
 * Prusa: http://www.prusa3d.com

@@ -48,17 +48,15 @@
 ![01](../img/Filament_Sensors/Laser/01.jpg)
 ---
 * Insert the Laser filament sensor
-* Insert the 11mm PTFE tube<br>  
+* Insert the 11mm PTFE tube
+* Insert 1x 10mm bolt into the washer, making sure the bolt is free to move independently from the washer<br>  
 ![02](../img/Filament_Sensors/Laser/02.jpg)
 ---
-* Insert 1x 10mm bolt into the washer, making sure the bolt is free to move independently from the washer<br>  
+* Secure the laser filament sensor using the washer bolt combo. Ensure the flat side of the washer aligns down. This is screwing into plastic so take it slow<br>  
 ![03](../img/Filament_Sensors/Laser/03.jpg)
 ---
-* Secure the laser filament sensor using the washer bolt combo. Ensure the flat side of the washer aligns down. This is screwing into plastic so take it slow<br>  
-![04](../img/Filament_Sensors/Laser/04.jpg)
----
 * Insert 2x 14mm bolts into the back two holes<br>  
-![05](../img/Filament_Sensors/Laser/05.jpg)
+![04](../img/Filament_Sensors/Laser/04.jpg)
 ---
 * Secure the lid using 2x 10mm bolts. They screw into plastic so take it slow<br>  
 ![06](../img/Filament_Sensors/Laser/06.jpg)
