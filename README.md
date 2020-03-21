@@ -21,9 +21,9 @@ This is a very maintainable and moddable mod. I encourage and look forward to se
 I have to stress this is a **beta** mod with beta documentation.  
 Documentation is not complete and will be updated daily until this message is gone.  
 There are probably spelling and grammar mistakes and possibly incorrect links and numbers.  
-Parts mite change over the next few weeks.  
+Parts might change over the next few weeks.  
 Field testing of parts and printing parts is **limited**.
-Some parts mite cause problems when printing especially with materials I haven't tested.
+Some parts might cause problems when printing especially with materials I haven't tested.
 I will attempt to deal with any highlighted issue in a timely fasion, that said, changes will be kept to a minimum if possible.
 
 ## No custom firmware (sort of)???!!!
@@ -42,7 +42,7 @@ I showed a preview of my mod and there was a voice of concern in regard to the c
 This was mainly because the X motor is now positioned forward compared to stock.  
 The concern is that this now unfavorably loads the z axis bearing and in turn reduces the life of the bearings and smooth rods.  
 I have not been able to find data that supports or refutes this concern, however it does appear that the extra loading is within spec.  
-So what does this mean? It mite, or mite not reduce the life of your z axis bearings and smooth rods.
+So what does this mean? It might, or might not reduce the life of your z axis bearings and smooth rods.
 
 The x carriage is slightly heavier than stock so this could manifest as more ghosting from x movements. Print settings can be adjusted to counter this.
 
