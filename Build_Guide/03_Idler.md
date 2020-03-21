@@ -11,7 +11,7 @@
 |1|[**HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Bottom.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Prusa_20T_3mmID_Spacer_Bottom.stl)|Printed Part|
 |2|14mm|M3|
 |1|Nylon Lock Nut|M3|
-|1|Smooth T20|Prusa|
+|1|Smooth T20|Prusa Idler|
 ---
 ![01](../img/Idlers/Stock/01.jpg)
 ---
@@ -38,7 +38,7 @@
 |1|14mm-15.8mm|4.95mm OD Dowel for Gates Idler|
 |2|14mm|M3|
 |1|Nylon Lock Nut|M3|
-|1|Toothe T20|Gates|
+|1|Toothed T20|Gates Idler|
 ---
 * Insert the Gates idler and secure in place using the dowel<br>  
 ![01](../img/Idlers/Gates/01.jpg)

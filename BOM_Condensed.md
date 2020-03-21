@@ -24,6 +24,7 @@
 |Quantity|Size|Type|
 |---:|:---:|:---|
 |1|14mm-15.8mm|4.95mm OD Dowel for Gates Idler|
+|1|Toothed T20|Gates Idler|
 |1|M5|Threaded Brass Insert 
  
  ## Prerequisite
@@ -35,3 +36,4 @@
 |2|370mm|8mm Smooth Rod|
 |7|LM8UU|Bearing|
 |1|800mm|GT 2TG Belt|
+|1|Smooth T20|Prusa Idler|
