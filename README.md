@@ -2,13 +2,11 @@
 Universal E3D Hemera mod for the Prusa i3 MK2 MK2.5 MK2.5S MK3 MK3S + Other variants
 This is for advanced users so **please** fully read this [**README.md**](README.md) to avoid disappointment, frustration and missguided expectations!
 
-![Hemera Odyssey Full View](img/full_view_blender.jpg)
+![Hemera Odyssey Full View](img/full_view_blender.jpg)  
 
-### Print settings are critical please follow them exactly  
-=> [**Print Settings**](Print_Settings.md)
-
-### Build guide
-=> [**Build guide**](Build_Guide/00_First.md)
+### BOM => [**Build guide**](BOM_Condensed.md)
+### Follow print settings exactly  => [**Print Settings**](Print_Settings.md)
+### Build guide => [**Build guide**](Build_Guide/00_First.md)
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
