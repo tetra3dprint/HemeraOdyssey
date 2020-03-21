@@ -3,6 +3,7 @@
 
 * Use PETG for all part  
 * Use exactly 4 outlines @ (slicer default) 0.45mm width
+* Use 0.2mm Layer height
 * Use atleast 20% rectangular infill
 * Solo print [**Part_Left_Motor.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Motor.stl)
 * Solo print [**Part_Right_Idler.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Right_Idler.stl)
