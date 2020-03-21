@@ -2,6 +2,11 @@
 Universal E3D Hemera mod for the Prusa i3 MK2 MK2.5 MK2.5S MK3 MK3S + Other variants  
 This is for advanced users so **please** fully read this [**README.md**](README.md) to avoid disappointment, frustration and missguided expectations!
 
+## What is this mod
+This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
+It will pass the self-test and XYZ calibration thanks to the geometry matching the stock setup but needs a minimum change to the e-steps that can be done via gcode.  
+This is a very maintainable and moddable mod. I encourage and look forward to seeing mods and remixes!
+
 ![Hemera Odyssey Full View](img/full_view_blender.jpg)  
 
 |Document|Link|
@@ -16,14 +21,9 @@ I have to stress this is a **beta** mod with beta documentation.
 Documentation is not complete and will be updated daily until this message is gone.  
 There are probably spelling and grammar mistakes and possibly incorrect links and numbers.
 Parts mite change over the next few weeks.  
-What this means is field testing of parts and printing parts is **limited**.
+Field testing of parts and printing parts is **limited**.
 Some parts mite cause problems when printing especially with materials I haven't tested.
 I will attempt to deal with any highlighted issue in a timely fasion, that said, changes will be kept to a minimum if possible.
-
-## What is this mod
-This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
-It will pass the self-test and XYZ calibration thanks to the geometry matching the stock setup but needs a minimum change to the e-steps that can be done via gcode.  
-This is a very maintainable and moddable mod. I encourage and look forward to seeing mods and remixes!
 
 ## No custom firmware (sort of)???!!!
 Aside from needing to change the e-steps, this will work with stock firmware but it's not ideal.
