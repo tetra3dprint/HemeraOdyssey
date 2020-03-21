@@ -14,6 +14,8 @@
 |6|Hex Nylon Nut|M3 Bolt|
 |2|Washer|M3 Bolt|
 |7|small|zip tie|
+|1|43mm|PTFE Tube|
+|1|11mm|PTFE Tube (Laser sensor)|
 
 ## MK2 Only
 |Quantity|Size|Type|
