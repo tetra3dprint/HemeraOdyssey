@@ -18,13 +18,13 @@
 ## MK2 Only
 |Quantity|Size|Type|
 |---:|:---:|:---|
-|2x|M2|12mm (End stop switch)|
+|2|M2|12mm (End stop switch)|
  
 ## Optional
 |Quantity|Size|Type|
 |---:|:---:|:---|
-|1x|4.95mm OD|14mm-15.8mm Dowel for Gates Idler|
-|1x|M5|Threaded Brass Insert 
+|1|4.95mm OD|14mm-15.8mm Dowel for Gates Idler|
+|1|M5|Threaded Brass Insert 
  
  ## Prerequisite
 |Quantity|Size|Type|

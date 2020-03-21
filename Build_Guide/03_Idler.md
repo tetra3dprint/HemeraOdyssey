@@ -17,7 +17,7 @@
 * Place the Spacer_Bottom in the large hole<br>  
 ![02](../img/Idlers/Stock/02.jpg)
 ---
-* Place the Spacer_Top in the small hole<br> 
+* Place the Spacer_Top in the small hole<br>  
 ![03](../img/Idlers/Stock/03.jpg)
 ---
 * Insert the assembled idler into the idler housing
@@ -34,9 +34,10 @@
 |Quantity|Size|Type|
 |---:|:---:|:---:|
 |1|[**HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Idler_Housing_Gates_20T_5mmID.stl)|Printed Part|
-|1x|4.95mm OD|14mm-15.8mm Dowel for Gates Idler|
+|1|4.95mm OD|14mm-15.8mm Dowel for Gates Idler|
 |2|14mm|M3|
 |1|Nylon Lock Nut|M3|
+---
 * Insert the Gates idler and secure in place using the dowel<br>  
 ![01](../img/Idlers/Gates/01.jpg)
 ---
