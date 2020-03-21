@@ -26,7 +26,7 @@ Left Part
 2x M2 12mm  
 
 ### Cable Strain Relief  
-2x M3 14mm
+2x M3 10mm
 
 ----------------------
 Right Part

@@ -2,18 +2,18 @@
 ### #hemeraodyssey
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|4|6mm|M3|
-|7|10mm|M3|
-|21|14mm|M3|
-|2|16mm|M3|
-|9|18mm|M3|
-|2|25mm|M3|
-|1|40mm|M3|
-|10|Hex Nut|M3|
-|14|Square Nut|M3|
-|6|Hex Nylon Nut|M3|
-|2|Washer|M3|
-|5|small|zip tie|
+|4|6mm|M3 Bolt|
+|7|10mm|M3 Bolt|
+|21|14mm|M3 Bolt|
+|2|16mm|M3 Bolt|
+|9|18mm|M3 Bolt|
+|2|25mm|M3 Bolt|
+|1|40mm|M3 Bolt|
+|10|Hex Nut|M3 Bolt|
+|14|Square Nut|M3 Bolt|
+|6|Hex Nylon Nut|M3 Bolt|
+|2|Washer|M3 Bolt|
+|7|small|zip tie|
 
 ## MK2 Only
 |Quantity|Size|Type|
