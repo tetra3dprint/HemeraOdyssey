@@ -57,7 +57,7 @@ Vlastimil has beta tested my mod, printed several variations and tried them out 
 Not only that but he has created the first official mod (Z Tops) for my mod that enables the use on the MK3S variant, so huge respect and thanks to him.  
    
 [Grégoire Saunier #BearUpgrade on twitter](https://twitter.com/GregoireSaunier)  
-Grégoire has not only been inspiration but has also been kind enough to offer some guidance here and there that kept me on the strain and narrow :) so huge respect and thanks to him. 
+Grégoire has not only been inspiration but has also been kind enough to offer some guidance here and there that kept me on the straight and narrow :) so huge respect and thanks to him. 
 
 
 ## Lots of coffee and filament consumption
