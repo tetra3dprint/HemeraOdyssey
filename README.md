@@ -4,9 +4,11 @@ This is for advanced users so **please** fully read this [**README.md**](README.
 
 ![Hemera Odyssey Full View](img/full_view_blender.jpg)  
 
-### BOM => [**Build guide**](BOM_Condensed.md)
-### Follow print settings exactly  => [**Print Settings**](Print_Settings.md)
-### Build guide => [**Build guide**](Build_Guide/00_First.md)
+|Document|Link|
+|---:|---:|
+|### BOM|[**BOM**](BOM_Condensed.md)|
+|### Follow print settings exactly|[**Print Settings**](Print_Settings.md)|
+|### Build guide|[**Build guide**](Build_Guide/00_First.md)|
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
