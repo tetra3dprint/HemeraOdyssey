@@ -1,4 +1,4 @@
-[Previous](00_First.md) | [Next](02_Part_Right.md)
+[Previous](00_First.md) | [Next](02_Part_Right.md)  
 ---
 # Part Left  
 ### #hemeraodyssey

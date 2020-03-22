@@ -1,7 +1,7 @@
-[Previous](04_X_Carriage.md) | [Next](06_Undercarriage.md)
-### #hemeraodyssey
+[Previous](04_X_Carriage.md) | [Next](06_Undercarriage.md)  
 ---
 # Filament Sensor
+### #hemeraodyssey
 ---
 # Parts IR Sensor
 |Quantity|Size|Type|

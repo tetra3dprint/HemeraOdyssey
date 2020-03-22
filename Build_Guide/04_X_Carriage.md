@@ -1,7 +1,7 @@
-[Previous](03_Idler.md) | [Next](05_Filament_Sensor.md)
-### #hemeraodyssey
+[Previous](03_Idler.md) | [Next](05_Filament_Sensor.md)  
 ---
 # X Carriage
+### #hemeraodyssey
 ---
 # Parts  
 |Quantity|Size|Type|
