@@ -9,6 +9,7 @@
 * **Do not use the stock Noctua fan** it does **not** have enough static pressure and you will have endless jamms, only use provided fan or equivalent (static pressure).  
 <br>  
 <br>  
+
 ## Using the provided 24v heat sink fan on MK3
 
 To use the provided fan with the MK3 requires you connect the ground as normal to the fan ground pin.  
