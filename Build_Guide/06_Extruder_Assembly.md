@@ -27,7 +27,7 @@
 ---
 * Ensure the Hemera is assembled according to [E3D build guide](https://e3d-online.dozuki.com/c/Hemera_Assembly_Guides)
 * Do **not** use the stock Noctua fan, you will only get jamms
-* The only recommended fan is the provided fan see [Previous](00_First.md) for more details<br>  
+* The only recommended fan is the one provided with the Hemera, see [here](00_First.md) for more details<br>  
 ![00](../img/Extruder_Assembly/00.jpg)
 ---
 * Insert 1x 40mm bolt into the undercarriage back and secure with a hex nylon lock nut, tighten completely
