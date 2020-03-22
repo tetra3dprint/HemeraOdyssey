@@ -1,7 +1,6 @@
 [Previous](00_First.md) | [Next](02_Part_Right.md)
-### #hemeraodyssey
 ---
-# Part Left
+# Part Left ### #hemeraodyssey
 ---
 # Parts  
 |Quantity|Size|Type|
