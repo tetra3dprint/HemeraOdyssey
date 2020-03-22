@@ -94,7 +94,7 @@
 * Place the undercarriage fan mount against the nozzel fang and insert 2x 16mm bolts to hold it in place<br>  
 ![19](../img/Extruder_Assembly/19.jpg)
 ---
-* Secure the nozzle fang and undercarriage fan mount to the undercarriage left and right on the motor side as pictured<br>  
+* Secure the nozzle fang and undercarriage fan mount to the undercarriage assembly as pictured by tightening the 2x 14mm bolts<br>  
 ![20](../img/Extruder_Assembly/20.jpg)
 ---
 * Secure the 50mm blower fan using 2x 25mm bolt with 2x M3 washers
