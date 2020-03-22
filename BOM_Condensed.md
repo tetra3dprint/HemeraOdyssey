@@ -9,11 +9,12 @@
 |9|18mm|M3 Bolt|
 |2|25mm|M3 Bolt|
 |1|40mm|M3 Bolt|
-|10|Hex Nut|M3|
-|14|Square Nut|M3|
-|6|Hex Nylon Lock Nut|M3|
-|2|Washer|M3 Bolt|
-|7|small|zip tie|
+|10|M3|Hex Nut|
+|14|M3|Square Nut|
+|4|M3|Thin Square Nut(Hemera)|
+|6|M3|Hex Nylon Lock Nut|
+|2|M3|Washer|
+|7|Small|zip tie|
 |1|43mm|PTFE Tube|
 |1|11mm|PTFE Tube (Laser sensor)|
 
@@ -39,3 +40,10 @@
 |7|LM8UU|Bearing|
 |1|800mm|GT 2TG Belt|
 |1|Smooth T20|Prusa Idler|
+|1||Laser filament sensor|
+|1|7mm|Ball Bearing(IR Sensor)|
+|1||IR filament sensor|
+|1||Filament sensor wire|
+|1||PINDA Probe|
+|1|3mm|Nylon Filament|
+|1|50mm|Blower Fan|

@@ -26,14 +26,14 @@
 ![03](../img/Part_Right/03.jpg)
 ![04](../img/Part_Right/04.jpg)
 ---
-* Insert 2 square nuts  
-* Insert 2 14mm bolts to secure, don't over tighten<br>  
+* Insert 2x square nuts  
+* Insert 2x 14mm bolts to secure, don't over tighten<br>  
 ![05](../img/Part_Right/05.jpg)
 ---
-* Loosely fit the POM Trapezoidal Nut using 2 18mm bolts<br>  
+* Loosely fit the POM Trapezoidal Nut using 2x 18mm bolts<br>  
 ![06](../img/Part_Right/06.jpg)
 ---
-* Puncture the 3 motor holes using the M3 hex driver due to bridging support<br>   
+* Loosely fit the front clamp part with 2x 14mm bolt and loosely insert 1x 14mm bolt in the rear clamp<br>  
 ![07](../img/Part_Right/07.jpg)
 ---
 [Previous](01_Part_Left.md) | [Next](03_Idler.md) 

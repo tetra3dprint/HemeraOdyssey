@@ -43,7 +43,7 @@
 |1|[**HemeraOdyssey-Filament_Sensor_Laser_Wahser.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Filament_Sensor_Laser_Wahser.stl)|Printed Part|
 |2|14mm|M3 Bolt|
 |3|10mm|M3 Bolt|
-|1|11mm|PTFE Tube
+|1|11mm|PTFE Tube|
 ---
 ![01](../img/Filament_Sensors/Laser/01.jpg)
 ---

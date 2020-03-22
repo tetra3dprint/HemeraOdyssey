@@ -6,7 +6,9 @@ I make no claims about this mod, it simply satisfies the requirement of enabling
 ## What is this mod
 This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
 It will pass the self-test and XYZ calibration thanks to the geometry matching the stock setup but needs a minimum change to the e-steps that can be done via gcode.  
-This is a very maintainable and moddable mod. I encourage and look forward to seeing mods and remixes!
+There is no loss in build volume.  
+It supports both Laser and IR filament sensors.  
+This is a very maintainable and moddable mod. I encourage and look forward to seeing mods and remixes, remeber to use the tag #hemeraodyssey
 
 ![Hemera Odyssey Full View](img/full_view_blender.jpg)  
 
@@ -44,11 +46,16 @@ The concern is that this now unfavorably loads the z axis bearing and in turn re
 I have not been able to find data that supports or refutes this concern, however it does appear that the extra loading is within spec.  
 So what does this mean? It might, or might not reduce the life of your z axis bearings and smooth rods.
 
-The x carriage is slightly heavier than stock so this could manifest as more ghosting from x movements. Print settings can be adjusted to counter this.
+The x carriage is slightly heavier than stock so this could manifest as more ghosting from x movements. Print settings can be adjusted to counter this.  
+Here is a weight comparison of fully assembled variants of extruders: -  
+|Extruder|~Weight(g)|
+|---:|---:|
+|Bondtech MK3|567|
+|Stock MK2.5|630|
+|Hemera Odyssey|697|
 
 ## Lots of coffee and filament consumption
-[**Buy me a coffee :)**](https://www.buymeacoffee.com/tetra3dprint)  
-In making this mod I've used several rolls of filament and drank lots of Grumpy Mule coffee. If you like it and want to support me in some way (obiously no obligation) maybe consider buying me a coffee :)  
+In making this mod I've used several rolls of filament and drank lots of Grumpy Mule coffee. If you like it and want to support me in some way (obiously no obligation) maybe consider [**buying me a coffee here :)**](https://www.buymeacoffee.com/tetra3dprint)    
 
 ## Huge thanks to  
  
