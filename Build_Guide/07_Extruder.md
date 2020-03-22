@@ -111,4 +111,4 @@
 * <br>  
 ![46](../img/Extruder_Assembly/46.jpg)
 ---
-[Previous](05_Filament_Sensor.md) | [Next](07_Printer_Assembly.md)  
+[Previous](06_Undercarriage.md) | [Next](08_Printer_Assembly.md)   

@@ -1,7 +1,7 @@
-[Previous](06_Extruder_Assembly.md)   
-### #hemeraodyssey
+[Previous](007_Extruder.md)   
 ---
 # Extruder
+### #hemeraodyssey
 ---
 # Parts  
 |Quantity|Size|Type|
@@ -55,4 +55,4 @@
 * <br>  
 ![14](../img/Printer_Assembly/14.jpg)
 ---
-[Previous](06_Extruder_Assembly.md)
+[Previous](07_Extruder.md)

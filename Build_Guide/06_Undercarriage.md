@@ -58,4 +58,4 @@
 * The undercarriage back should already be close to final position before securing in place with 2x 14mm bolt
 * If the undercarriage back is not close, gently pull the cables through one by one, bit by bit taking particular care not to yank the cables<br>  
 ![11](../img/Extruder_Assembly/11.jpg)
-[Previous](05_Filament_Sensor.md) | [Next](07_Printer_Assembly.md)  
+[Previous](05_Filament_Sensor.md) | [Next](07_Extruder.md)  
