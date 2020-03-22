@@ -3,6 +3,10 @@
 * **Do not over tighten anything!!**
 * When screwing into plastic, take it slowly with firm pressure and be mindfull not to over tightening
 * You will need a suitable hex driver
+* The Hemera comes with some hardware like 6mm M3 + more
+* Some hardware comes from disassembling the current x carriage
+* Some hardware will have to be purchased like the 14mm M3
+* The mod suppors tick or thin M3 square nuts
 * Some part have snap off brim/supports
 * Some holes need to be punctured using the hex driver due to the bridging support
 * The rear smooth rod clamps have built in support that needs to be removed carefully using a knife or thin metal ruler. This is made easier by inserting and removing a smooth rod before hand.
