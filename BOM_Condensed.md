@@ -17,11 +17,6 @@
 |7|Small|zip tie|
 |1|43mm|PTFE Tube|
 |1|11mm|PTFE Tube (Laser sensor)|
-
-## MK2 Only
-|Quantity|Size|Type|
-|---:|:---:|:---|
-|2|12mm|M2(End stop switch)|
  
 ## Optional
 |Quantity|Size|Type|
@@ -47,3 +42,5 @@
 |1||PINDA Probe|
 |1|3mm|Nylon Filament|
 |1|50mm|Blower Fan|
+|2|12mm|M2(MK2/MK2.5 End stop switch)|
+|1||Micro Switch(MK2/MK2.5 End stop switch)|

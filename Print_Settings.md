@@ -4,7 +4,7 @@
 
 * Use PETG for all part
 * Part are already correctly orientated to take best advantage of stock part cooling, do not change the orientation
-* Use exactly 4 perimeters @ (slicer default) 0.45mm width
+* Use exactly 4 perimeters @ (Prusa Slic3r default) 0.45mm width, change other slicers to this.
 * Use 0.2mm layer height
 * Use at least 20% rectangular infill
 * Supports and brims are **not** required

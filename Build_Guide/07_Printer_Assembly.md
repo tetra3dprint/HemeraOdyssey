@@ -8,8 +8,8 @@
 |---:|:---:|:---:|
 |1|[**HemeraOdyssey-X_Carriage_Belt_Tensioner_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage_Belt_Tensioner_Left.stl)|Printed Part|
 |1|[**HemeraOdyssey-X_Carriage_Belt_Tensioner_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage_Belt_Tensioner_Right.stl)|Printed Part|
-|1|[**HemeraOdyssey-Z_Top_Left_7mm.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Left_7mm.stl)|Printed Part|
-|1|[**HemeraOdyssey-Z_Top_Right_7mm.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Right_7mm.stl)|Printed Part|
+|1|[**HemeraOdyssey-Z_Top_Left_7mm.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Left_7mm.stl)|Printed Part (MK3S Only)|
+|1|[**HemeraOdyssey-Z_Top_Right_7mm.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Right_7mm.stl)|Printed Part (MK3S Only)|
 ||mm|M3|
 ---
 * <br>  
