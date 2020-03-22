@@ -109,16 +109,12 @@
 * Insert the 43mm PTFE tube into the hemera<br>  
 ![26](../img/Extruder_Assembly/26.jpg)
 ---
-## Laser Filament Sensor
----
-* <br>  
+## Laser Filament Sensor  
 ![27](../img/Extruder_Assembly/27.jpg)
 ![28](../img/Extruder_Assembly/28.jpg) 
 ![29](../img/Extruder_Assembly/29.jpg)
 ---
 ## IR Filament Sensor
----
-* <br>  
 ![30](../img/Extruder_Assembly/30.jpg)
 ![30a](../img/Extruder_Assembly/30a.jpg)
 ![31](../img/Extruder_Assembly/31.jpg)
