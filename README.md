@@ -15,6 +15,7 @@ This is a very maintainable and moddable mod. I encourage and look forward to se
 |Document|Link|
 |---:|:---|
 |BOM|[**BOM**](BOM_Condensed.md)|
+|Blender Source|[**HemeraOdysseyBlenderFile.zip**](HemeraOdysseyBlenderFile.zip)|
 |**please read** Printing Guide|[**Printing Guide**](Print_Settings.md)|
 |Build guide|[**Build guide**](Build_Guide/00_First.md)|
 |Want to support this mod?|[**Click me**](#lots-of-coffee-and-filament-consumption)|
@@ -68,7 +69,7 @@ Grégoire has not only been inspiration but has also been kind enough to offer s
 
 ## Blender Source Files
 I used Blender to create the files for this mod so only the blender file and STL files will are available.  
-I will make the blender file available over the next few days. (It need's a lot of housekeeping)
+The blender file is available at the root of this repo here [**HemeraOdysseyBlenderFile.zip**](HemeraOdysseyBlenderFile.zip)
 
 ## Sources
 * Prusa: http://www.prusa3d.com
