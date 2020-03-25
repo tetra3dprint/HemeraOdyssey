@@ -15,7 +15,7 @@ This is a very maintainable and moddable mod. I encourage and look forward to se
 |Document|Link|
 |---:|:---|
 |BOM|[**BOM**](BOM_Condensed.md)|
-|**please read** Printing Guide|[**Printin Guide**](Print_Settings.md)|
+|**please read** Printing Guide|[**Printing Guide**](Print_Settings.md)|
 |Build guide|[**Build guide**](Build_Guide/00_First.md)|
 |Want to support this mod?|[**Click me**](#lots-of-coffee-and-filament-consumption)|
 
