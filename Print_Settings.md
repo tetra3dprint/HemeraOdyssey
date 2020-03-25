@@ -9,6 +9,10 @@
 * Use at least 20% rectangular infill
 * Supports and brims are **not** required
 
+## Some parts are for specific configuration: -
+* MK3S Only [**HemeraOdyssey-Z_Top_Left_7mm_MK3S.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Left_7mm_MK3S.stl)
+* MK3S Only [**HemeraOdyssey-Z_Top_Left_7mm_MK3S.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Left_7mm_MK3S.stl)
+
 ## Some parts need to be printed by them selfs: -
 * Solo print [**HemeraOdyssey-Part_Left_Motor.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Left_Motor.stl)
 * Solo print [**HemeraOdyssey-Part_Right_Idler.stl**](HemeraOdyssey_STLs_BETA/HemeraOdyssey-Part_Right_Idler.stl)
