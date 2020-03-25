@@ -73,4 +73,5 @@ I will make the blender file available over the next few days. (It need's a lot 
 ## Sources
 * Prusa: http://www.prusa3d.com
 * E3D Hemera: https://e3d-online.com/
+* Grégoire Saunier : https://github.com/gregsaun/
 * Blender 3D: https://www.blender.org/
