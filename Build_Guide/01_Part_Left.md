@@ -40,7 +40,8 @@
 * Puncture the 3x motor holes using the M3 hex driver due to the bridging support<br>  
 ![08](../img/Part_Left/08.jpg)
 ---
-* Secure the motor with 3x 18mm bolts<br>  
+* Secure the motor with 3x 18mm bolts
+* For MK2/MK2.5 secure the endstop microswitch using 2x M2 12mm<br>  
 ![09](../img/Part_Left/09.jpg)
 ---
 [Previous](00_First.md) | [Next](02_Part_Right.md)
