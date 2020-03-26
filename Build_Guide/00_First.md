@@ -8,14 +8,11 @@
 * Some hardware will have to be purchased like the 14mm M3
 * The mod suppors thick or thin M3 square nuts
 <br>  
-
 ## Printed part cleanup requirements
 * Some part have snap off brim/supports that may require a little clean up
 * Some holes need to be punctured using the hex driver due to the bridging support
 * The rear smooth rod clamps have built in support that needs to be removed carefully using a knife or thin metal ruler. This is made easier by inserting and removing a smooth rod before hand.  
 <br>  
-
-
 ## Using the provided 24v heat sink fan on MK3  
 
 **Do not use the stock Noctua fan** it does **not** have enough static pressure and you will have endless jamms, only use provided fan or equivalent (static pressure).  
