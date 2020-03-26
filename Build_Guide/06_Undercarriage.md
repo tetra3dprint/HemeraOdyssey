@@ -12,7 +12,7 @@
 |1|[**HemeraOdyssey-Undercarriage_Back_Cap.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Back_Cap.stl)|Printed Part|
 |5|M3|Square Nut|
 |4|M3|Thin Square Nut (Hemera)|
-|4|6mm|M3 Bolt (Hemera)|
+|2|6mm|M3 Bolt (Hemera)|
 |1|10mm|M3 Bolt|
 |2|14mm|M3 Bolt|
 |1|40mm|M3 Bolt|
