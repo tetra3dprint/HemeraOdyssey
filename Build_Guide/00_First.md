@@ -19,8 +19,8 @@
 ## Using the provided 24v heat sink fan on MK3  
 
 **Do not use the stock Noctua fan** it does **not** have enough static pressure and you will have endless jamms, only use provided fan or equivalent (static pressure).  
-
-**To pass self test you will need to temporarily connect the Noctua.  **  
+  
+**To pass self test you will need to temporarily connect the Noctua.**  
 To use the provided fan with the MK3 requires you connect the ground as normal to the fan ground pin.  
 The positive side goes to Pin 1 (+24v) of the J19 Raspberry Pi header.  
 Unfortunately you lose stall guard detect and you have to turn it off in the menu to use the printer.  
