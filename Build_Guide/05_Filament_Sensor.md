@@ -61,4 +61,4 @@
 * Secure the lid using 2x 10mm bolts. They screw into plastic so take it slow<br>  
 ![06](../img/Filament_Sensors/Laser/06.jpg)
 ---
-[Previous](04_X_Carriage.md) | [Next](06_Extruder_Assembly.md)
+[Previous](04_X_Carriage.md) | [Next](06_Undercarriage.md)

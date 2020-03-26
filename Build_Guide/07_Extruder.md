@@ -10,13 +10,14 @@
 |1|[**HemeraOdyssey-X_Carriage_Washer.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage_Washer.stl)|Printed Part|
 |1|[**HemeraOdyssey-Nozzle_Fang.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Nozzle_Fang.stl)|Printed Part|
 |4|10mm|M3 Bolt|
-|4|14mm|M3 Bolt|
 |2|16mm|M3 Bolt|
 |2|25mm|M3 Bolt|
 |2|M3|Thin Square Nut (Hemera)|
 |2|M3|Washer|
 |1|43mm|PTFE Tube|
 |1|3mm|Nylon Filament|
+|7|Small|zip tie|
+---
 * Get the X carriage part + washer part, 4x 10mm bolts and 2x thin square nuts<br>  
 ![12](../img/Extruder_Assembly/12.jpg)
 ---
