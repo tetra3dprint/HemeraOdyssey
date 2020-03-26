@@ -9,8 +9,9 @@
 |1|[**HemeraOdyssey-X_Carriage.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage.stl)|Printed Part|
 |1|[**HemeraOdyssey-X_Carriage_Washer.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-X_Carriage_Washer.stl)|Printed Part|
 |1|[**HemeraOdyssey-Nozzle_Fang.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Nozzle_Fang.stl)|Printed Part|
-|5|10mm|M3 Bolt|
+|4|10mm|M3 Bolt|
 |4|14mm|M3 Bolt|
+|2|16mm|M3 Bolt|
 |2|25mm|M3 Bolt|
 |2|M3|Thin Square Nut (Hemera)|
 |2|M3|Washer|
@@ -19,7 +20,7 @@
 * Get the X carriage part + washer part, 4x 10mm bolts and 2x thin square nuts<br>  
 ![12](../img/Extruder_Assembly/12.jpg)
 ---
-* Place the washer part onto the X carriage as pictured<br>  
+* Place the printed washer part onto the X carriage as pictured<br>  
 ![14](../img/Extruder_Assembly/14.jpg)
 ---
 * Insert 2x thin square nuts into the mounting holes on the hemera and ensuring you don't tip them out
@@ -40,7 +41,7 @@
 * Connect the motor cable and guide it to the back passing behind the pinda<br>  
 ![18](../img/Extruder_Assembly/18.jpg)
 ---
-* Insert 2x Hex Nylon Lock Nut onto the undercarriage fan mount using a spare 10mm bolt
+* Insert 2x Hex Nylon Lock Nut onto the printed undercarriage fan mount. You can use a spare 10mm bolt to bed them
 * Place the undercarriage fan mount against the nozzel fang and insert 2x 16mm bolts to hold it in place<br>  
 ![19](../img/Extruder_Assembly/19.jpg)
 ---

@@ -19,8 +19,7 @@
 
 ## Using the provided 24v heat sink fan on MK3  
 
-To pass self test you will need to temporarily connect the Noctua.  
-<br>  
+**To pass self test you will need to temporarily connect the Noctua.  **  
 To use the provided fan with the MK3 requires you connect the ground as normal to the fan ground pin.  
 The positive side goes to Pin 1 (+24v) of the J19 Raspberry Pi header.  
 Unfortunately you lose stall guard detect and you have to turn it off in the menu to use the printer.  
