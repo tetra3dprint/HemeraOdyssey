@@ -14,6 +14,7 @@
 |1|Smooth T20|Prusa Idler|
 ---
 ### 01
+* Gather the parts<br>  
 ![01](../img/Idlers/Stock/01.jpg)
 ---
 ### 02
