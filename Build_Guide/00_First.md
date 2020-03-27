@@ -15,6 +15,12 @@
 * The rear smooth rod clamps have built in support that needs to be removed carefully using a knife or thin metal ruler. This is made easier by inserting and removing a smooth rod before hand.  
 <br>  
 
+## Changes in BETA printed parts
+The following parts changed from using 6mm to 8mm. This is because my "M-FIX-HERMES" bag contained both 6mm and 8mm and I picked 6mm. Turns out they should not have been there.
+[**HemeraOdyssey-Undercarriage_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Left.stl)
+[**HemeraOdyssey-Undercarriage_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Right.stl)
+<br>  
+
 ## Using the provided 24v heat sink fan on MK3  
 
 **Do not use the stock Noctua fan** it does **not** have enough static pressure and you will have endless jamms, only use provided fan or equivalent (static pressure).  
