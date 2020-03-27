@@ -22,7 +22,7 @@
 ---
 ### 03
 * MK3S Only
-* Use 4 12mm bolts to secure the Z Tops<br> 
+* Use 4x 12mm bolts to secure the Z Tops<br> 
 ![03](../img/Printer_Assembly/03.jpg)
 ![04](../img/Printer_Assembly/04.jpg)
 ---
@@ -47,13 +47,13 @@
 ![09](../img/Printer_Assembly/09.jpg)
 ---
 ### 09
-* Use 1 25mm bolt to secure the belt clamp
+* Use 1x 25mm bolt to secure the belt clamp
 * Fully tighten the bolt, this is **not** adjustable<br>  
 ![10](../img/Printer_Assembly/10.jpg)
 ---
 ### 10
 ## Belt Tensioner  
-* Use 1 25mm bolt to secure the belt clamp, adjust belt position as needed before tightening the bolt
+* Use 1x 25mm bolt to secure the belt clamp, adjust belt position as needed before tightening the bolt
 * There is only 5mm travel, so ensure the belt is taut and not protruding the x carriage before tensioning the belt<br>  
 ![11](../img/Printer_Assembly/11.jpg)
 ![12](../img/Printer_Assembly/12.jpg)
