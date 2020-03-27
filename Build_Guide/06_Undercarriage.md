@@ -42,7 +42,7 @@
 ![05](../img/Extruder_Assembly/05.jpg)
 ---
 ### 05
-* **Warning**, make sure you use the most recent vesrsion of the Undercarriage Left, the old version used 6mm instead of 8mm!!!
+* **Warning**, make sure you use the most recent vesrsion of the Undercarriage Right, the old version used 6mm instead of 8mm!!!
 * Insert 1x thin square nut into the hemera mounting hole and secure the undercarriage right with 2x 8mm bolts<br>  
 ![06](../img/Extruder_Assembly/06.jpg)
 ![07](../img/Extruder_Assembly/07.jpg)
