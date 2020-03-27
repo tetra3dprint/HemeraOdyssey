@@ -48,21 +48,19 @@
 ---
 ### 09
 * Use 1 25mm bolt to secure the belt clamp
-* Fully tighten the bolt<br>  
+* Fully tighten the bolt, this is **not** adjustable<br>  
 ![10](../img/Printer_Assembly/10.jpg)
 ---
 ### 10
-* <br>  
-![11](../img/Printer_Assembly/11.jpg)
----
-### 11
+## Belt Tensioner  
 * Use 1 25mm bolt to secure the belt clamp, adjust belt position as needed before tightening the bolt
-* There is only 4mm travel, so ensure the belt is taut and not protruding the x carriage before tightening<br>  
+* There is only 5mm travel, so ensure the belt is taut and not protruding the x carriage before tensioning the belt<br>  
+![11](../img/Printer_Assembly/11.jpg)
 ![12](../img/Printer_Assembly/12.jpg)
 * Should looks like this after tensioning
 ![12a](../img/Printer_Assembly/12a.jpg)
 ---
-### 12
+### 11
 * This is the Idler adjuster (**NOT** a belt tensioner). It is used to align the belt.
 * Fine adjustments are required
 * Looking from this angle, move the x carriage back and forth
@@ -73,7 +71,7 @@
 * I recommend getting a Gates idler due to the dual bearing making it easier to align<br>  
 ![13](../img/Printer_Assembly/13.jpg)
 ---
-### 13
+### 12
 * <br>  
 ![14](../img/Printer_Assembly/14.jpg)
 ---
