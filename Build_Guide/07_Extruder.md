@@ -37,7 +37,7 @@
 * Get the nozzel fang, undercarriage fan mount, 2x 16mm bolt, 2x Hex Nylon Lock Nut and motor cable<br>  
 ![17](../img/Extruder_Assembly/17.jpg)
 ---
-* Make sure the plastic sleeve is removed from the motor cable<
+* **Make sure the plastic sleeve is removed from the motor cable**
 * Connect the motor cable and guide it to the back passing behind the pinda<br>  
 ![18](../img/Extruder_Assembly/18.jpg)
 ---
