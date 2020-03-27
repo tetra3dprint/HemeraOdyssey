@@ -11,7 +11,7 @@
 |1|[**HemeraOdyssey-Undercarriage_Back.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Back.stl)|Printed Part|
 |5|M3|Square Nut|
 |4|M3|Thin Square Nut (Hemera)|
-|2|6mm|M3 Bolt (Hemera)|
+|4|8mm (changed from 6mm)|M3 Bolt (Hemera)|
 |1|10mm|M3 Bolt|
 |2|14mm|M3 Bolt|
 |1|40mm|M3 Bolt|
@@ -32,11 +32,13 @@
 ![02b](../img/Extruder_Assembly/02b.jpg)
 ![02c](../img/Extruder_Assembly/02c.jpg)
 ---
-* Insert 1x thin square nut into the hemera mounting hole and secure the undercarriage left with 2x 6mm bolts<br>  
+* **Warning**, make sure you use the most recent vesrsion of the Undercarriage Left, the old version used 6mm instead of 8mm!!!
+* Insert 1x thin square nut into the hemera mounting hole and secure the undercarriage left with 2x 8mm bolts<br>  
 ![04](../img/Extruder_Assembly/04.jpg) 
 ![05](../img/Extruder_Assembly/05.jpg)
 ---
-* Insert 1x thin square nut into the hemera mounting hole and secure the undercarriage right with 2x 6mm bolts<br>  
+* **Warning**, make sure you use the most recent vesrsion of the Undercarriage Left, the old version used 6mm instead of 8mm!!!
+* Insert 1x thin square nut into the hemera mounting hole and secure the undercarriage right with 2x 8mm bolts<br>  
 ![06](../img/Extruder_Assembly/06.jpg)
 ![07](../img/Extruder_Assembly/07.jpg)
 ---

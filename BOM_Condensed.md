@@ -2,7 +2,7 @@
 ### #hemeraodyssey
 |Quantity|Size|Type|
 |---:|:---:|:---:|
-|4|6mm|M3 Bolt|
+|4|8mm(changed from 6mm)|M3 Bolt|
 |7|10mm|M3 Bolt|
 |21|14mm|M3 Bolt|
 |2|16mm|M3 Bolt|
