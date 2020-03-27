@@ -25,31 +25,31 @@
 * Slide in the undercarriage back cap taking note of the arrow pointing towards the Hemera<br>  
 ![35](../img/Extruder_Assembly/35.jpg)
 ---
-* <br>  
+* Take one zip tie under the nylon and around the upper cables<br>  
 ![36](../img/Extruder_Assembly/36.jpg) 
+* Take one zip tie under the nylon and over the upper cables<br>  
 ![37](../img/Extruder_Assembly/37.jpg) 
 ![38](../img/Extruder_Assembly/38.jpg)
+* Tighten the zip tie using pliers (not crazy tight)<br>  
 ![39](../img/Extruder_Assembly/39.jpg)
 ---
-* <br>  
+* Repeat the above with one other zip tie<br>  
 ![40](../img/Extruder_Assembly/40.jpg)
----
-* <br>  
 ![41](../img/Extruder_Assembly/41.jpg)
 ---
-* <br>  
+* Take one zip tie over the nylon and around the lower cables<br>  
 ![42](../img/Extruder_Assembly/42.jpg)
 ---
-* <br>  
+* Slide up towards the hemera and tighten by hand<br>  
 ![43](../img/Extruder_Assembly/43.jpg)
 ---
-* <br>  
+* Take one zip tie over around all the cables<br>  
 ![44](../img/Extruder_Assembly/44.jpg)
 ---
-* <br>  
+* Trim all the zip ties using snippers<br>  
 ![45](../img/Extruder_Assembly/45.jpg)
 ---
-* <br>  
+* Feed the cables into the original sleve and secure in place with a couple zip ties, tightened by hand and trimmed<br>  
 ![46](../img/Extruder_Assembly/46.jpg)
 ---
 [Previous](07_Extruder.md) | [Next](09_Printer_Assembly.md)   
