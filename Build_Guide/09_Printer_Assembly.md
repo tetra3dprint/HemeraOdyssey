@@ -63,7 +63,13 @@
 ![12a](../img/Printer_Assembly/12a.jpg)
 ---
 ### 12
-* <br>  
+* This is the Idler adjuster (**NOT** a belt tensioner). It is used to align the belt.
+* Fine adjustments are required
+* Looking from this angle, move the x carriage back and forth
+* If the belt sits low, then tighten the screw
+* If the belt sits high, then losen the screw
+* It is normal for the belt to travel slightly up and down
+* This may require adjusting the the motor drive gear<br>  
 ![13](../img/Printer_Assembly/13.jpg)
 ---
 ### 13
