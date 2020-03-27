@@ -68,7 +68,7 @@
 * Looking from this angle, move the x carriage back and forth
 * If the belt sits low, then tighten the screw
 * If the belt sits high, then losen the screw
-* It is normal for the belt to travel slightly up and dow, especially on the stock Prusa idelr
+* It is normal for the belt to travel slightly up and down, especially on the stock Prusa idelr
 * This may require adjusting the motor drive gear up or down to get perfect
 * I recommend getting a Gates idler due to the dual bearing making it easier to align<br>  
 ![13](../img/Printer_Assembly/13.jpg)
