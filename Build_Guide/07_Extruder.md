@@ -21,43 +21,54 @@
 * Get the X carriage part + washer part, 4x 10mm bolts and 2x thin square nuts<br>  
 ![12](../img/Extruder_Assembly/12.jpg)
 ---
+### 02
 * Place the printed washer part onto the X carriage as pictured<br>  
 ![14](../img/Extruder_Assembly/14.jpg)
 ---
+### 03
 * Insert 2x thin square nuts into the mounting holes on the hemera and ensuring you don't tip them out
 * If you find this difficult to achieve, you can leave them out until the next step<br>  
 ![13](../img/Extruder_Assembly/13.jpg)
 ---
+### 04
 * Place the X carriage over the Hemera mounting holes as pictured
 * Insert the 2x thin square nuts into the mounting slots if they have fallen out by this point<br>  
 ![15](../img/Extruder_Assembly/15.jpg)
 ---
+### 05
 * Secure the X carriage to the hemera using 4x 10mm bolts, do *not* over tighten<br>  
 ![16](../img/Extruder_Assembly/16.jpg)
 ---
+### 06
 * Get the nozzel fang, undercarriage fan mount, 2x 16mm bolt, 2x Hex Nylon Lock Nut and motor cable<br>  
 ![17](../img/Extruder_Assembly/17.jpg)
 ---
+### 07
 * **Make sure the plastic sleeve is removed from the motor cable**
 * Connect the motor cable and guide it to the back passing behind the pinda<br>  
 ![18](../img/Extruder_Assembly/18.jpg)
 ---
+### 08
 * Insert 2x Hex Nylon Lock Nut onto the printed undercarriage fan mount. You can use a spare 10mm bolt to bed them
 * Place the undercarriage fan mount against the nozzle fang and insert 2x 16mm bolts to hold it in place<br>  
 ![19](../img/Extruder_Assembly/19.jpg)
 ---
+### 09
 * Secure the nozzle fang and undercarriage fan mount to the undercarriage assembly as pictured by tightening the 2x 16mm bolts<br>  
 ![20](../img/Extruder_Assembly/20.jpg)
 ---
+### 10
 * Secure the 50mm blower fan using 2x 25mm bolt with 2x M3 washers
 * Guide the fan cable the same way as the motor cable<br>  
 ![22](../img/Extruder_Assembly/22.jpg)
 ![23](../img/Extruder_Assembly/23.jpg)
 ---
+### 11
 * Secure the motor and fan cable to the undercarraige rigth part using a small zip tie<br>  
 ![24](../img/Extruder_Assembly/24.jpg)
 ![25](../img/Extruder_Assembly/25.jpg)
 ---
+### 12
 * Insert the 43mm PTFE tube into the hemera<br>  
 ![26](../img/Extruder_Assembly/26.jpg)
 ---
