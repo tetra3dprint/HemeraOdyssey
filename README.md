@@ -22,7 +22,7 @@ This is a very maintainable and moddable mod. I encourage and look forward to se
 
 ## This is a **BETA** mod!
 I have to stress this is a **beta** mod with beta documentation.  
-Parts might change over the next few weeks, please check everything and don't assume. I will make a note of changes in the assembly guide where relevant.  
+Parts might change over the next few weeks, please check everything and don't assume. I will make a note of changes in the assembly guide where relevant. You can also check [here](00_First.md#changes-in-beta-printed-parts)  
 Documentation is not complete and will be updated daily until this message is gone.  
 There are probably spelling and grammar mistakes and possibly incorrect links and numbers.   
 Field testing of parts and printing parts is **limited**.
