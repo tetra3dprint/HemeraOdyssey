@@ -9,7 +9,6 @@
 |1|[**HemeraOdyssey-Undercarriage_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Left.stl)|Printed Part|
 |1|[**HemeraOdyssey-Undercarriage_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Right.stl)|Printed Part|
 |1|[**HemeraOdyssey-Undercarriage_Back.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Back.stl)|Printed Part|
-|1|[**HemeraOdyssey-Undercarriage_Back_Cap.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Back_Cap.stl)|Printed Part|
 |5|M3|Square Nut|
 |4|M3|Thin Square Nut (Hemera)|
 |2|6mm|M3 Bolt (Hemera)|

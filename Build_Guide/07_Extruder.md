@@ -1,4 +1,4 @@
-[Previous](06_Undercarriage.md) | [Next](08_Printer_Assembly.md)  
+[Previous](06_Undercarriage.md) | [Next](08_Cables.md)  
 ---
 # Extruder
 ### #hemeraodyssey
@@ -15,8 +15,7 @@
 |2|M3|Thin Square Nut (Hemera)|
 |2|M3|Washer|
 |1|43mm|PTFE Tube|
-|1|3mm|Nylon Filament|
-|7|Small|zip tie|
+|1|Small|zip tie|
 ---
 * Get the X carriage part + washer part, 4x 10mm bolts and 2x thin square nuts<br>  
 ![12](../img/Extruder_Assembly/12.jpg)
@@ -61,12 +60,20 @@
 * Insert the 43mm PTFE tube into the hemera<br>  
 ![26](../img/Extruder_Assembly/26.jpg)
 ---
-## Laser Filament Sensor  
+## Laser Filament Sensor
+* Attach the dupont connector to the sensor
+* Feed the cable through the opening of the X Carriage down past the PINDA
+* Place the cable in the slot on the underside of the sensor housing
+* Locate the PTFE tube and isert into the sensor housing
+* Secure the sensor housing in the corner as pictured, ensuring not to pinch the cable<br>  
 ![27](../img/Extruder_Assembly/27.jpg)
 ![28](../img/Extruder_Assembly/28.jpg) 
 ![29](../img/Extruder_Assembly/29.jpg)
 ---
 ## IR Filament Sensor
+* Attach the dupont connector to the sensor
+* Feed the cable through the opening of the X Carriage down past the PINDA
+* Secure the sensor as pictured using 2x 14mm bolts<br>  
 ![30](../img/Extruder_Assembly/30.jpg)
 ![30a](../img/Extruder_Assembly/30a.jpg)
 ![31](../img/Extruder_Assembly/31.jpg)
@@ -113,4 +120,4 @@
 * <br>  
 ![46](../img/Extruder_Assembly/46.jpg)
 ---
-[Previous](06_Undercarriage.md) | [Next](08_Printer_Assembly.md)   
+[Previous](06_Undercarriage.md) | [Next](08_Cables.md)   
