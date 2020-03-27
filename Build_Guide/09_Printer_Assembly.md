@@ -60,7 +60,7 @@
 * There is only 4mm travel, so ensure the belt is taut and not protruding the x carriage before tightening<br>  
 ![12](../img/Printer_Assembly/12.jpg)
 * Should looks like this after tensioning
-![12s](../img/Printer_Assembly/12s.jpg)
+![12a](../img/Printer_Assembly/12a.jpg)
 ---
 ### 12
 * <br>  
