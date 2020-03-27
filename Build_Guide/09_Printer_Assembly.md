@@ -70,7 +70,7 @@
 * If the belt sits high, then losen the screw
 * It is normal for the belt to travel slightly up and dow, especially on the stock Prusa idelr
 * This may require adjusting the motor drive gear up or down to get perfect
-* I would recommend using a Gates idler due to the dual bearing making it easier to align<br>  
+* I recommend getting a Gates idler due to the dual bearing making it easier to align<br>  
 ![13](../img/Printer_Assembly/13.jpg)
 ---
 ### 13
