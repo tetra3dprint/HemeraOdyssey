@@ -14,27 +14,34 @@
 |1|10mm|M3 Bolt|
 |1|7mm|Ball Bearing|
 |1||IR filament sensor|
----  
+---
+### 01
 ![01](../img/Filament_Sensors/IR/01.jpg)
 ---
+### 02
 * Insert the ball bearing into the housing or onto the trigger as pictured<br>  
 ![02](../img/Filament_Sensors/IR/02.jpg)
 ---
+### 03
 * Insert the trigger into the housing with the flat edge facing outward<br>  
 ![03](../img/Filament_Sensors/IR/03.jpg)
 ---
+### 04
 * Place the IR filament sensor into the side as pictures. This will prevent the trigger from falling out<br>  
 ![04](../img/Filament_Sensors/IR/04.jpg)
 ---
+### 05
 * The cover alignment tab has a support structure that needs to be snapped off.
 * Carefully place over the IR filament sensor, ensuring the alignment tab seats correctly and the cover sits flat against the housing
 * Use the 10mm bolt to secure the cover in place<br>  
 ![05](../img/Filament_Sensors/IR/05.jpg)
 ![06](../img/Filament_Sensors/IR/06.jpg)
 ---
+### 06
 * Gently bend the end of the spring as pictured being careful not to overbend<br>  
 ![07](../img/Filament_Sensors/IR/07.jpg)
 ---
+### 07
 # Parts Laser Sensor
 |Quantity|Size|Type|
 |---:|:---:|:---:|
@@ -45,19 +52,24 @@
 |3|10mm|M3 Bolt|
 |1|11mm|PTFE Tube|
 ---
+### 08
 ![01](../img/Filament_Sensors/Laser/01.jpg)
 ---
+### 09
 * Insert the Laser filament sensor
 * Insert the 11mm PTFE tube
 * Insert 1x 10mm bolt into the washer, making sure the bolt is free to move independently from the washer<br>  
 ![02](../img/Filament_Sensors/Laser/02.jpg)
 ---
+### 10
 * Secure the laser filament sensor using the washer bolt combo. Ensure the flat side of the washer aligns down. This is screwing into plastic so take it slow<br>  
 ![03](../img/Filament_Sensors/Laser/03.jpg)
 ---
+### 11
 * Insert 2x 14mm bolts into the back two holes<br>  
 ![04](../img/Filament_Sensors/Laser/04.jpg)
 ---
+### 12
 * Secure the lid using 2x 10mm bolts. They screw into plastic so take it slow<br>  
 ![06](../img/Filament_Sensors/Laser/06.jpg)
 ---

@@ -15,24 +15,30 @@
 |1|T8|POM Trapezoidal Nut|
 |2|LM8UU|Bearing|  
 ---
+### 01
 * Snap off brim support
 * Puncture the back rod clamp hole using the M3 hex driver due to bridging support <br>  
 ![01](../img/Part_Right/01.jpg)
 ---
+### 02
 * Insert all 5 hex nuts using a 14mm bolt from the rear<br>  
 ![02](../img/Part_Right/02.jpg)
 ---
+### 03
 * Insert both LM8UU bearings in X configuration (looking down from front & above) for both<br>  
 ![03](../img/Part_Right/03.jpg)
 ![04](../img/Part_Right/04.jpg)
 ---
+### 04
 * Insert 2x square nuts  
 * Insert 2x 14mm bolts to secure, don't over tighten<br>  
 ![05](../img/Part_Right/05.jpg)
 ---
+### 05
 * Loosely fit the POM Trapezoidal Nut using 2x 18mm bolts<br>  
 ![06](../img/Part_Right/06.jpg)
 ---
+### 06
 * Loosely fit the front clamp part with 2x 14mm bolt and loosely insert 1x 14mm bolt in the rear clamp<br>  
 ![07](../img/Part_Right/07.jpg)
 ---
