@@ -17,6 +17,7 @@
 |1|43mm|PTFE Tube|
 |1|Small|zip tie|
 ---
+### 01
 * Get the X carriage part + washer part, 4x 10mm bolts and 2x thin square nuts<br>  
 ![12](../img/Extruder_Assembly/12.jpg)
 ---
