@@ -1,6 +1,6 @@
 [Previous](07_Extruder.md) | [Next](09_Printer_Assembly.md)  
 ---
-# Extruder
+# Cables
 ### #hemeraodyssey
 ---
 # Parts  
