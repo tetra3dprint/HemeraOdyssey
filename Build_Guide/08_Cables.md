@@ -10,7 +10,8 @@
 |1|3mm|Nylon Filament|
 |6|Small|zip tie|
 ---
-* Insert the 3mm nylon filament (cable support) into the pictured hole on the undercarraige back part<br>  
+* Insert the 3mm nylon filament (cable support) into the pictured hole on the undercarraige back part
+* Make sure it goes all the way in<br>  
 ![32](../img/Extruder_Assembly/32.jpg)
 ![33](../img/Extruder_Assembly/33.jpg)
 ---
