@@ -35,18 +35,18 @@
 * Secure the X carriage to the hemera using 4x 10mm bolts, do *not* over tighten<br>  
 ![16](../img/Extruder_Assembly/16.jpg)
 ---
-* Get the nozzel fang, undercarriage fan mount, 2x 16mm bolt, 2x Hex Nylon Lock Nut and motor cable
-* Make sure the plastic sleeve is removed from the motor cable<br>  
+* Get the nozzel fang, undercarriage fan mount, 2x 16mm bolt, 2x Hex Nylon Lock Nut and motor cable<br>  
 ![17](../img/Extruder_Assembly/17.jpg)
 ---
+* Make sure the plastic sleeve is removed from the motor cable<
 * Connect the motor cable and guide it to the back passing behind the pinda<br>  
 ![18](../img/Extruder_Assembly/18.jpg)
 ---
 * Insert 2x Hex Nylon Lock Nut onto the printed undercarriage fan mount. You can use a spare 10mm bolt to bed them
-* Place the undercarriage fan mount against the nozzel fang and insert 2x 16mm bolts to hold it in place<br>  
+* Place the undercarriage fan mount against the nozzle fang and insert 2x 16mm bolts to hold it in place<br>  
 ![19](../img/Extruder_Assembly/19.jpg)
 ---
-* Secure the nozzle fang and undercarriage fan mount to the undercarriage assembly as pictured by tightening the 2x 14mm bolts<br>  
+* Secure the nozzle fang and undercarriage fan mount to the undercarriage assembly as pictured by tightening the 2x 16mm bolts<br>  
 ![20](../img/Extruder_Assembly/20.jpg)
 ---
 * Secure the 50mm blower fan using 2x 25mm bolt with 2x M3 washers
