@@ -31,6 +31,7 @@
 ![13](../img/Extruder_Assembly/13.jpg)
 ---
 ### 04
+**NOTE: It is possible to place and remove the motor cable with the x carriage in place, but you may want to add it now**  
 * Place the X carriage over the Hemera mounting holes as pictured
 * Insert the 2x thin square nuts into the mounting slots if they have fallen out by this point<br>  
 ![15](../img/Extruder_Assembly/15.jpg)
