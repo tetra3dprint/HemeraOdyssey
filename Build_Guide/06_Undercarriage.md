@@ -50,7 +50,7 @@
 ### 06
 * Insert the PINDA probe and secure in place with 1x 10mm bolt, **Do not overtight, just enough to prevent the PINDA rotating by hand**
 * Use the front(motor side) hole for MK3/MK2.5 and the rear(fan side) hole for MK2 only
-* Do not squish the cable behind the probe as pictured, it should sit just above<br>  
+* **Do not squish the cable** behind the probe as pictured, it should sit just above<br>  
 ![08](../img/Extruder_Assembly/08.jpg)
 ![08a](../img/Extruder_Assembly/08a.jpg)
 ---
