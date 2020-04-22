@@ -3,7 +3,7 @@ Universal E3D Hemera mod for the Prusa i3 MK2 MK2.5 MK2.5S MK3 MK3S + Other vari
 This is for advanced users so **please** fully read this [**README.md**](README.md) to avoid disappointment, frustration and missguided expectations!  
 I make no claims about this mod, it simply satisfies the requirement of enabling the Hemera to be used on stock firmware, pass self test and XYZ calibration.
 
-![F](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico) -> [**HemeraOdyssey Facebook group**](https://www.facebook.com/groups/HemeraOdyssey/)
+[![F](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico)](https://www.facebook.com/groups/HemeraOdyssey/)
 
 ## What is this mod
 This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
