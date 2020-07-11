@@ -26,7 +26,7 @@ The following parts changed from using 6mm to 8mm. This is because my "M-FIX-HER
 **Do not use the stock Prusa fan** it does **not** have enough static pressure and you will get endless jamms.
 Unfortunately the supplied fan lacks a stall sensor that the Prusa firmware uses to detect the fan stalling.
 Consequently you have to turn off 
-![01](../img/Part_Right/fan_check_off.jpg)
+![01](../img/fan_check_off.jpg)
 
 If you intend to run self test, then you will need to temporarily connect the original Prusa fan in order for the test to pass.
   
