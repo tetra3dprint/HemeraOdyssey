@@ -19,7 +19,7 @@
 The following parts changed from using 6mm to 8mm. This is because my "M-FIX-HERMES" bag contained both 6mm and 8mm and I picked 6mm. Turns out they should not have been there.  
 [**HemeraOdyssey-Undercarriage_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Left.stl)  
 [**HemeraOdyssey-Undercarriage_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Right.stl)  
-<br>  7
+<br>
 
 ## You must use the supplied Hemera heat sink fan
 
