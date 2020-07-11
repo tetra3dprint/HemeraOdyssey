@@ -1,9 +1,9 @@
  | [Next](01_Part_Left.md)  
 ---
 * **Do not over tighten anything!!**
-* When screwing into plastic, take it slowly with firm pressure and be mindfull not to over tightening
+* When screwing into plastic, take it slowly with firm pressure and be mindfull not to over tighten
 * You will need a suitable hex driver
-* The Hemera comes with some hardware like 6mm M3 + more
+* The Hemera comes with some hardware like 8mm M3 + more
 * Some hardware comes from disassembling the current x carriage
 * Some hardware will have to be purchased like the 14mm M3
 * The mod suppors thick or thin M3 square nuts
@@ -19,20 +19,23 @@
 The following parts changed from using 6mm to 8mm. This is because my "M-FIX-HERMES" bag contained both 6mm and 8mm and I picked 6mm. Turns out they should not have been there.  
 [**HemeraOdyssey-Undercarriage_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Left.stl)  
 [**HemeraOdyssey-Undercarriage_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Right.stl)  
-<br>  
+<br>  7
 
-## Using the provided 24v heat sink fan on MK3  
+## You must use the supplied Hemera heat sink fan
 
-**Do not use the stock Noctua fan** it does **not** have enough static pressure and you will have endless jamms, only use provided fan or equivalent (static pressure).  
-However **To pass self test you will need to temporarily connect the Noctua.**  
+**Do not use the stock Prusa fan** it does **not** have enough static pressure and you will get endless jamms.
+Unfortunately the supplied fan lacks a stall sensor that the Prusa firmware uses to detect the fan stalling.
+Consequently you have to turn off 
+![01](../img/Part_Right/fan_check_off.jpg)
+
+If you intend to run self test, then you will need to temporarily connect the original Prusa fan in order for the test to pass.
   
-To use the provided fan with the MK3 requires you connect the ground as normal to the fan ground pin.  
-The positive side goes to Pin 1 (+24v) of the J19 Raspberry Pi header.  
-Unfortunately you lose stall guard detect and you have to turn it off in the menu to use the printer.  
-You will not be able to pass self test with this fan either
+Connecting the provided fan to the MK3 you have to connect the ground as normal to the fan ground pin.  
+The positive side goes to Pin 1 (+24v) of the J19 Raspberry Pi header.
 <br>  
-Alternatively you could find a 5v fan that can provide equivalent static pressure.  
-My HemeraOdyssey mod can support fans up to 15mm thick.  
-  
+There are some suitable alternative fans, but a lot don't have the correct type of sensor. There is one suitable plug and play fan in development, but not available on the market yet afaik.
+<br>
+My HemeraOdyssey mod can support fans up to 15mm thick.
+<br>
 Personally I run a 5v 15mm with 6.35mm H2O static pressure but it does not have a rpm sensor. Instead the sense wire that's high when running and low when stalled.  
 I made a small arduino sketch that monitors the fan then outputs a signal to the einsy that emulates 4500rpm while high and 0rpm while stalled.
