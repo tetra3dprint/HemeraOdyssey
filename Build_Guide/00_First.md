@@ -24,7 +24,7 @@ The following parts changed from using 6mm to 8mm. This is because my "M-FIX-HER
 ## You must use the supplied Hemera heat sink fan
 
 **Do not use the stock Prusa fan** it does **not** have enough static pressure and you will get endless jamms.
-Unfortunately the supplied fan lacks a stall sensor that the Prusa firmware uses to detect the fan stalling, consequently you have to turn off: -
+Unfortunately the supplied fan lacks a stall sensor that the Prusa firmware uses to detect the fan stalling, consequently you have to turn off fan check: -
 ![01](../img/fan_check_off.jpg)
 
 If you intend to run self test, then you will need to temporarily connect the original Prusa fan in order for the test to pass.
