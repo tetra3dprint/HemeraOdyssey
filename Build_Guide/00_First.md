@@ -29,7 +29,7 @@ Unfortunately the supplied fan lacks a stall sensor that the Prusa firmware uses
 
 If you intend to run self test, then you will need to temporarily connect the original Prusa fan in order for the test to pass.
   
-Connecting the provided fan to the MK3 requires you to connect the (black) ground as normal to the fan ground pin and the positive (red) goes to Pin 1 (+24v) of the J19 Raspberry Pi header.
+Connecting the provided fan to the MK3 requires you to connect the (black) ground as normal to the fan ground pin and the positive (red) goes to Pin 1 (+24v) of the J19 Raspberry Pi connector.
 <br>
 Check out the great guide from Grégoire Saunier #BearUpgrade [Here](https://guides.bear-lab.com/Guide/3.+BearMera+extruder/29?lang=en#s312)
 <br>  
