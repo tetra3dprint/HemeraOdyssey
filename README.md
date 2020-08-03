@@ -5,6 +5,8 @@ I make no claims about this mod, it simply satisfies the requirement of enabling
 
 [![F](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico) **HemeraOdyssey Facebook group**](https://www.facebook.com/groups/HemeraOdyssey/)
 
+Find me on twitter @ [tetra3dprint](https://twitter.com/tetra3dprint) 
+
 ## What is this mod
 This is a universal one fits all mod that enabled the use of the E3D Hemera extruder on a Prusa i3 MK2/S MK2.5/S MK3/S without needing custom firmware (sort of).  
 It will pass the self-test and XYZ calibration thanks to the geometry matching the stock setup but needs a minimum change to the e-steps that can be done via gcode.  
