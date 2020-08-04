@@ -16,9 +16,13 @@
 <br>  
 
 ## Changes in BETA printed parts
-The following parts changed from using 6mm to 8mm. This is because my "M-FIX-HERMES" bag contained both 6mm and 8mm and I picked 6mm. Turns out they should not have been there.  
+Updated ztops for MK3S and MK2.5S, there was an error in the model that caused XYZ calibration to fail from Z height.
 [**HemeraOdyssey-Undercarriage_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Left.stl)  
 [**HemeraOdyssey-Undercarriage_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Right.stl)  
+
+The following parts changed from using 6mm to 8mm. This is because my "M-FIX-HERMES" bag contained both 6mm and 8mm and I picked 6mm. Turns out they should not have been there.  
+[**HemeraOdyssey-Z_Top_Left_7mm_MK3S_MK2_5S.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Left_7mm_MK3S_MK2_5S.stl)  
+[**HemeraOdyssey-Z_Top_Right_7mm_MK3S_MK2_5S.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Z_Top_Right_7mm_MK3S_MK2_5S.stl)  
 <br>
 
 ## You must use the supplied Hemera heat sink fan
