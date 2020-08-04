@@ -16,7 +16,7 @@
 <br>  
 
 ## Changes in BETA printed parts
-Updated ztops for MK3S and MK2.5S, there was an error in the model that caused XYZ calibration to fail from Z height.
+Updated ztops for MK3S and MK2.5S, there was an error in the model that caused XYZ calibration to fail from Z height.  
 [**HemeraOdyssey-Undercarriage_Left.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Left.stl)  
 [**HemeraOdyssey-Undercarriage_Right.stl**](../HemeraOdyssey_STLs_BETA/HemeraOdyssey-Undercarriage_Right.stl)  
 
