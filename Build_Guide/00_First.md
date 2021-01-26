@@ -5,7 +5,7 @@
 * You will need a suitable hex driver
 * The Hemera comes with some hardware like 8mm M3 + more
 * Some hardware comes from disassembling the current x carriage
-* Some hardware will have to be purchased like the 14mm M3
+* Some hardware will have to be purchased like the 14mm M3 and I recommend getting some spare square, hex and nylon hex nuts
 * The mod suppors thick or thin M3 square nuts
 <br>  
 
