@@ -63,7 +63,7 @@ Here is a weight comparison of fully assembled variants of extruders: -
 |Hemera Odyssey|697|
 
 ## Lots of coffee and filament consumption
-In making this mod I've used several rolls of filament and drank lots of Grumpy Mule coffee. If you like it and want to support me in some way (obiously no obligation) maybe consider [**buying me a coffee here :)**](https://www.buymeacoffee.com/tetra3dprint)    
+In making this mod I've used several rolls of filament and drank lots of Grumpy Mule coffee. If you like it and want to support me in some way (obviously no obligation) maybe consider [**buying me a coffee here :)**](https://www.buymeacoffee.com/tetra3dprint)    
 
 ## Huge thanks to  
  
